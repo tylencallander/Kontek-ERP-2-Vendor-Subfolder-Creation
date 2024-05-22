@@ -310,8 +310,8 @@
             "ALUMINUM SURFACE TECHNOLOGIES"
         ],
         "alternatenames": [
-            "TECOUSTICS",
-            "AST FAB"
+            "AST FAB",
+            "TECOUSTICS"
         ]
     },
     "AMACS - WEDGE WIRE DISTRIBUTORS -PACKING - SCREENS": {
@@ -467,7 +467,8 @@
             "ARROW SPEED CONTROLS"
         ],
         "alternatenames": [
-            "MITSUBISHI"
+            "MITSUBISHI",
+            "ARROW SPEED CONTROLS"
         ]
     },
     "ART'S WAY VESSELS": {
@@ -491,7 +492,10 @@
             "ASCO NUMATICS"
         ],
         "alternatenames": [
-            "EMERSON"
+            "EMERSON",
+            "Rosemount",
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS"
         ]
     },
     "ASLAN TECHNOLOGIES INC": {
@@ -594,8 +598,10 @@
             "AZTEC ELECTRICAL SUPPLY INC"
         ],
         "alternatenames": [
+            "GRAYBAR CANADA",
             "BUSSMANN",
-            "EATON"
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "B & D STEEL": {
@@ -937,9 +943,10 @@
             "BUSSMANN"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "GRAYBAR CANADA",
-            "EATON"
+            "BUSSMANN",
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "CALGON CARBON CORPORATION": {
@@ -1051,6 +1058,7 @@
             "CARREM CONTROLS"
         ],
         "alternatenames": [
+            "CARREM CONTROLS",
             "PARTLOW"
         ]
     },
@@ -1297,7 +1305,8 @@
             "CONVAL EQUIPMENT LTD"
         ],
         "alternatenames": [
-            "PLAST-O-MATIC VALVES, INC"
+            "PLAST-O-MATIC VALVES, INC",
+            "CONVAL EQUIPMENT LTD"
         ]
     },
     "CONVEYORS, INC": {
@@ -1321,7 +1330,10 @@
             "COOPER BUSSMANN"
         ],
         "alternatenames": [
-            "BUSSMANN"
+            "GRAYBAR CANADA",
+            "BUSSMANN",
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "COOPER LIGHTING": {
@@ -1378,6 +1390,7 @@
             "CUSTOM MASTERS INC"
         ],
         "alternatenames": [
+            "CUSTOM MASTERS INC",
             "FLO KING"
         ]
     },
@@ -1391,7 +1404,10 @@
             "CUTLER-HAMMER"
         ],
         "alternatenames": [
-            "EATON"
+            "GRAYBAR CANADA",
+            "BUSSMANN",
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "DAEMAR INC": {
@@ -1564,9 +1580,10 @@
             "EATON"
         ],
         "alternatenames": [
+            "GRAYBAR CANADA",
             "BUSSMANN",
-            "AZTEC ELECTRICAL SUPPLY INC",
-            "GRAYBAR CANADA"
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "ECODYNE INDUSTRIAL": {
@@ -1634,10 +1651,10 @@
             "EMERSON"
         ],
         "alternatenames": [
-            "ASCO NUMATICS",
+            "EMERSON",
+            "LAKESIDE PROCESS CONTROLS LTD",
             "Rosemount",
-            "ASCO NUMATICS",
-            "LAKESIDE PROCESS CONTROLS LTD"
+            "ASCO NUMATICS"
         ]
     },
     "ENCON": {
@@ -1892,7 +1909,8 @@
             "FLO KING"
         ],
         "alternatenames": [
-            "CUSTOM MASTERS INC"
+            "CUSTOM MASTERS INC",
+            "FLO KING"
         ]
     },
     "FLOWLINE": {
@@ -1995,7 +2013,8 @@
             "GEORGE FISCHER PIPING SYSTEMS"
         ],
         "alternatenames": [
-            "Signet"
+            "Signet",
+            "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },
     "GERRIE": {
@@ -2019,6 +2038,7 @@
             "GF"
         ],
         "alternatenames": [
+            "Signet",
             "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },
@@ -2131,7 +2151,10 @@
             "GRAYBAR CANADA"
         ],
         "alternatenames": [
-            "BUSSMANN"
+            "GRAYBAR CANADA",
+            "BUSSMANN",
+            "EATON",
+            "AZTEC ELECTRICAL SUPPLY INC"
         ]
     },
     "GRUNDFOS": {
@@ -2707,8 +2730,10 @@
             "LAKESIDE PROCESS CONTROLS LTD"
         ],
         "alternatenames": [
+            "EMERSON",
             "Rosemount",
-            "EMERSON"
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS"
         ]
     },
     "LAKOS SEPERATORS": {
@@ -3031,6 +3056,7 @@
             "MITSUBISHI"
         ],
         "alternatenames": [
+            "MITSUBISHI",
             "ARROW SPEED CONTROLS"
         ]
     },
@@ -3462,7 +3488,8 @@
             "PARTLOW"
         ],
         "alternatenames": [
-            "CARREM CONTROLS"
+            "CARREM CONTROLS",
+            "PARTLOW"
         ]
     },
     "PASS AND SEYMOUR": {
@@ -3607,6 +3634,7 @@
             "PLAST-O-MATIC VALVES, INC"
         ],
         "alternatenames": [
+            "PLAST-O-MATIC VALVES, INC",
             "CONVAL EQUIPMENT LTD"
         ]
     },
@@ -4042,8 +4070,10 @@
             "ROSEMOUNT"
         ],
         "alternatenames": [
+            "EMERSON",
+            "Rosemount",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "EMERSON"
+            "ASCO NUMATICS"
         ]
     },
     "ROTECH": {
@@ -4322,6 +4352,7 @@
             "SIGNET"
         ],
         "alternatenames": [
+            "Signet",
             "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },

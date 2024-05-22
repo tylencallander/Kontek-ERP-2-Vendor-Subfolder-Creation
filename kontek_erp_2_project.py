@@ -3,7 +3,7 @@ import json
 import subprocess
 
 def list_folder_structure(root_path):
-    """ Recursively list the structure of the given directory. """
+    """Recursively list the structure of the given directory."""
     structure = []
     for dirpath, dirnames, _ in os.walk(root_path):
         for dirname in dirnames:
@@ -11,30 +11,36 @@ def list_folder_structure(root_path):
             structure.append(os.path.relpath(path, start=root_path))
     return structure
 
-def get_alternate_names(vendor_path, vendor_name):
-    """ Scan for .lnk files within the vendor directory and check for redirect targets. """
-    alternates = []
+def get_alternate_names(vendor_path, vendor_name, visited=None):
+    """Scan for .lnk files within the vendor directory and check for redirect targets recursively."""
+    if visited is None:
+        visited = set()  # To avoid infinite recursion due to circular .lnk references
+
+    alternates = set()  # Using set to avoid duplicate entries
     for item in os.listdir(vendor_path):
         item_path = os.path.join(vendor_path, item)
-        if item_path.lower().endswith('.lnk'):  # Checks if the item is a .lnk file
-            print(f"Found .lnk file in vendor '{vendor_name}' directory: {item}")
+        if item_path.lower().endswith('.lnk') and item_path not in visited:
+            visited.add(item_path)
             target_path = resolve_lnk(item_path)
             if target_path:
-                alternate_name = os.path.basename(target_path)
-                alternates.append(alternate_name)
+                alternate_name = os.path.basename(os.path.normpath(target_path))
+                alternates.add(alternate_name)
                 print(f"Resolved .lnk for vendor '{vendor_name}': links to '{alternate_name}' at '{target_path}'")
+                # Check if the target path itself contains .lnk files
+                if os.path.isdir(target_path):
+                    alternates.update(get_alternate_names(target_path, alternate_name, visited))
             else:
                 print(f"Failed to resolve .lnk file '{item}' in vendor '{vendor_name}' directory")
-    return alternates
+    return list(alternates)  # Convert set back to list for JSON serialization
 
 def resolve_lnk(lnk_path):
-    """ Use Windows shell to resolve the path of a .lnk file. """
+    """Use Windows shell to resolve the path of a .lnk file."""
     command = f'powershell "$link = (New-Object -COM WScript.Shell).CreateShortcut(\'{lnk_path}\'); $link.TargetPath"'
     try:
-        output = subprocess.check_output(command, shell=True, text=True)
+        output = subprocess.check_output(command, shell=True, text=True, stderr=subprocess.STDOUT)
         return output.strip()
     except subprocess.CalledProcessError as e:
-        print(f"Failed to resolve .lnk file: {e}")
+        print(f"Failed to resolve .lnk file: {e.output}")
         return None
 
 def main():
@@ -79,4 +85,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
