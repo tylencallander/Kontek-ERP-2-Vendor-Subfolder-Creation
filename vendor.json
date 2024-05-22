@@ -1,5 +1,5 @@
-[
-    {
+{
+    "A & G PIPING": {
         "vendorfullpath": "P:\\VENDORS\\A\\A & G PIPING",
         "vendorname": "A & G PIPING",
         "vendorpath": [
@@ -10,7 +10,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "A BRITE COMPANY": {
         "vendorfullpath": "P:\\VENDORS\\A\\A BRITE COMPANY",
         "vendorname": "A BRITE COMPANY",
         "vendorpath": [
@@ -21,7 +21,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "A&H CUSTOM MACHINE": {
         "vendorfullpath": "P:\\VENDORS\\A\\A&H CUSTOM MACHINE",
         "vendorname": "A&H CUSTOM MACHINE",
         "vendorpath": [
@@ -32,7 +32,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AACTION TOWING & RECOVERY": {
         "vendorfullpath": "P:\\VENDORS\\A\\AACTION TOWING & RECOVERY",
         "vendorname": "AACTION TOWING & RECOVERY",
         "vendorpath": [
@@ -43,7 +43,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ABB": {
         "vendorfullpath": "P:\\VENDORS\\A\\ABB",
         "vendorname": "ABB",
         "vendorpath": [
@@ -54,7 +54,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ABERFOYLE": {
         "vendorfullpath": "P:\\VENDORS\\A\\ABERFOYLE",
         "vendorname": "ABERFOYLE",
         "vendorpath": [
@@ -65,7 +65,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ABLE SEAL AND DESIGN": {
         "vendorfullpath": "P:\\VENDORS\\A\\ABLE SEAL AND DESIGN",
         "vendorname": "ABLE SEAL AND DESIGN",
         "vendorpath": [
@@ -76,7 +76,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ABSOLUTE STAINLESS INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\ABSOLUTE STAINLESS INC",
         "vendorname": "ABSOLUTE STAINLESS INC",
         "vendorpath": [
@@ -87,7 +87,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ABTREX": {
         "vendorfullpath": "P:\\VENDORS\\A\\ABTREX",
         "vendorname": "ABTREX",
         "vendorpath": [
@@ -98,7 +98,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ACCUTECH": {
         "vendorfullpath": "P:\\VENDORS\\A\\ACCUTECH",
         "vendorname": "ACCUTECH",
         "vendorpath": [
@@ -109,7 +109,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ACE MANUFACTURING": {
         "vendorfullpath": "P:\\VENDORS\\A\\ACE MANUFACTURING",
         "vendorname": "ACE MANUFACTURING",
         "vendorpath": [
@@ -120,7 +120,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ACI INSTRUMENTATION": {
         "vendorfullpath": "P:\\VENDORS\\A\\ACI INSTRUMENTATION",
         "vendorname": "ACI INSTRUMENTATION",
         "vendorpath": [
@@ -131,7 +131,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ACKLANDS-GRAINGER INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\ACKLANDS-GRAINGER INC",
         "vendorname": "ACKLANDS-GRAINGER INC",
         "vendorpath": [
@@ -140,9 +140,11 @@
             "A",
             "ACKLANDS-GRAINGER INC"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "GRAINGER CANADA"
+        ]
     },
-    {
+    "ACO CONTAINER SYSTEMS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ACO CONTAINER SYSTEMS",
         "vendorname": "ACO CONTAINER SYSTEMS",
         "vendorpath": [
@@ -153,7 +155,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ADVANCE PUMPS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ADVANCE PUMPS",
         "vendorname": "ADVANCE PUMPS",
         "vendorpath": [
@@ -164,7 +166,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ADVANTAGE CONTROLS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ADVANTAGE CONTROLS",
         "vendorname": "ADVANTAGE CONTROLS",
         "vendorpath": [
@@ -175,7 +177,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ADVANTECH": {
         "vendorfullpath": "P:\\VENDORS\\A\\ADVANTECH",
         "vendorname": "ADVANTECH",
         "vendorpath": [
@@ -186,7 +188,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AEZEN": {
         "vendorfullpath": "P:\\VENDORS\\A\\AEZEN",
         "vendorname": "AEZEN",
         "vendorpath": [
@@ -197,7 +199,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AFI MARKETING, INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\AFI MARKETING, INC",
         "vendorname": "AFI MARKETING, INC",
         "vendorpath": [
@@ -208,7 +210,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AGAT LABORATORIES": {
         "vendorfullpath": "P:\\VENDORS\\A\\AGAT LABORATORIES",
         "vendorname": "AGAT LABORATORIES",
         "vendorpath": [
@@ -219,7 +221,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AIR SOLUTIONS": {
         "vendorfullpath": "P:\\VENDORS\\A\\AIR SOLUTIONS",
         "vendorname": "AIR SOLUTIONS",
         "vendorpath": [
@@ -230,7 +232,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALDEN TRANSPORTATION": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALDEN TRANSPORTATION",
         "vendorname": "ALDEN TRANSPORTATION",
         "vendorpath": [
@@ -241,7 +243,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALICA WATER SERVICES": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALICA WATER SERVICES",
         "vendorname": "ALICA WATER SERVICES",
         "vendorpath": [
@@ -252,7 +254,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALLEN BRADLEY": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALLEN BRADLEY",
         "vendorname": "ALLEN BRADLEY",
         "vendorpath": [
@@ -261,9 +263,11 @@
             "A",
             "ALLEN BRADLEY"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Rockwell"
+        ]
     },
-    {
+    "ALLEN INDUSTRIAL RUBBER": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALLEN INDUSTRIAL RUBBER",
         "vendorname": "ALLEN INDUSTRIAL RUBBER",
         "vendorpath": [
@@ -274,7 +278,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALLREDI BLAST & ABRASIVES CANADA INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALLREDI BLAST & ABRASIVES CANADA INC",
         "vendorname": "ALLREDI BLAST & ABRASIVES CANADA INC",
         "vendorpath": [
@@ -285,7 +289,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALPHACHEM LIMITED": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALPHACHEM LIMITED",
         "vendorname": "ALPHACHEM LIMITED",
         "vendorpath": [
@@ -296,7 +300,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ALUMINUM SURFACE TECHNOLOGIES": {
         "vendorfullpath": "P:\\VENDORS\\A\\ALUMINUM SURFACE TECHNOLOGIES",
         "vendorname": "ALUMINUM SURFACE TECHNOLOGIES",
         "vendorpath": [
@@ -305,9 +309,12 @@
             "A",
             "ALUMINUM SURFACE TECHNOLOGIES"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "TECOUSTICS",
+            "AST FAB"
+        ]
     },
-    {
+    "AMACS - WEDGE WIRE DISTRIBUTORS -PACKING - SCREENS": {
         "vendorfullpath": "P:\\VENDORS\\A\\AMACS - WEDGE WIRE DISTRIBUTORS -PACKING - SCREENS",
         "vendorname": "AMACS - WEDGE WIRE DISTRIBUTORS -PACKING - SCREENS",
         "vendorpath": [
@@ -318,7 +325,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AMERICAN FAN": {
         "vendorfullpath": "P:\\VENDORS\\A\\AMERICAN FAN",
         "vendorname": "AMERICAN FAN",
         "vendorpath": [
@@ -329,7 +336,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AMID FILTRATION SYSTEM": {
         "vendorfullpath": "P:\\VENDORS\\A\\AMID FILTRATION SYSTEM",
         "vendorname": "AMID FILTRATION SYSTEM",
         "vendorpath": [
@@ -340,7 +347,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ANALYTICAL MEASUREMENTS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ANALYTICAL MEASUREMENTS",
         "vendorname": "ANALYTICAL MEASUREMENTS",
         "vendorpath": [
@@ -351,7 +358,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ANIXTER CANADA INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\ANIXTER CANADA INC",
         "vendorname": "ANIXTER CANADA INC",
         "vendorpath": [
@@ -362,7 +369,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ANTAIRA": {
         "vendorfullpath": "P:\\VENDORS\\A\\ANTAIRA",
         "vendorname": "ANTAIRA",
         "vendorpath": [
@@ -373,7 +380,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ANYBUS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ANYBUS",
         "vendorname": "ANYBUS",
         "vendorpath": [
@@ -384,7 +391,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "APLUS FINETEK SENSOR, INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\APLUS FINETEK SENSOR, INC",
         "vendorname": "APLUS FINETEK SENSOR, INC",
         "vendorpath": [
@@ -395,7 +402,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "APPLIED MEMBRANES, INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\APPLIED MEMBRANES, INC",
         "vendorname": "APPLIED MEMBRANES, INC",
         "vendorpath": [
@@ -406,7 +413,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AQUA TURBO SYSTEM INTERNATIONAL": {
         "vendorfullpath": "P:\\VENDORS\\A\\AQUA TURBO SYSTEM INTERNATIONAL",
         "vendorname": "AQUA TURBO SYSTEM INTERNATIONAL",
         "vendorpath": [
@@ -417,7 +424,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AQUAFINE CORPORATION": {
         "vendorfullpath": "P:\\VENDORS\\A\\AQUAFINE CORPORATION",
         "vendorname": "AQUAFINE CORPORATION",
         "vendorpath": [
@@ -428,7 +435,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AQUALINE": {
         "vendorfullpath": "P:\\VENDORS\\A\\AQUALINE",
         "vendorname": "AQUALINE",
         "vendorpath": [
@@ -439,7 +446,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ARO": {
         "vendorfullpath": "P:\\VENDORS\\A\\ARO",
         "vendorname": "ARO",
         "vendorpath": [
@@ -450,7 +457,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ARROW SPEED CONTROLS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ARROW SPEED CONTROLS",
         "vendorname": "ARROW SPEED CONTROLS",
         "vendorpath": [
@@ -459,9 +466,11 @@
             "A",
             "ARROW SPEED CONTROLS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "MITSUBISHI"
+        ]
     },
-    {
+    "ART'S WAY VESSELS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ART'S WAY VESSELS",
         "vendorname": "ART'S WAY VESSELS",
         "vendorpath": [
@@ -472,7 +481,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ASCO NUMATICS": {
         "vendorfullpath": "P:\\VENDORS\\A\\ASCO NUMATICS",
         "vendorname": "ASCO NUMATICS",
         "vendorpath": [
@@ -481,9 +490,11 @@
             "A",
             "ASCO NUMATICS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "EMERSON"
+        ]
     },
-    {
+    "ASLAN TECHNOLOGIES INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\ASLAN TECHNOLOGIES INC",
         "vendorname": "ASLAN TECHNOLOGIES INC",
         "vendorpath": [
@@ -494,7 +505,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AST FAB": {
         "vendorfullpath": "P:\\VENDORS\\A\\AST FAB",
         "vendorname": "AST FAB",
         "vendorpath": [
@@ -503,9 +514,11 @@
             "A",
             "AST FAB"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "TECOUSTICS"
+        ]
     },
-    {
+    "ATI": {
         "vendorfullpath": "P:\\VENDORS\\A\\ATI",
         "vendorname": "ATI",
         "vendorpath": [
@@ -516,7 +529,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AUGUSTA": {
         "vendorfullpath": "P:\\VENDORS\\A\\AUGUSTA",
         "vendorname": "AUGUSTA",
         "vendorpath": [
@@ -527,7 +540,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AUTOMATION DIRECT": {
         "vendorfullpath": "P:\\VENDORS\\A\\AUTOMATION DIRECT",
         "vendorname": "AUTOMATION DIRECT",
         "vendorpath": [
@@ -538,7 +551,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AVAYA": {
         "vendorfullpath": "P:\\VENDORS\\A\\AVAYA",
         "vendorname": "AVAYA",
         "vendorpath": [
@@ -549,7 +562,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AVENSYS SILCA ANALYZER": {
         "vendorfullpath": "P:\\VENDORS\\A\\AVENSYS SILCA ANALYZER",
         "vendorname": "AVENSYS SILCA ANALYZER",
         "vendorpath": [
@@ -560,7 +573,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AVISTA TECHNOLOGIES, INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\AVISTA TECHNOLOGIES, INC",
         "vendorname": "AVISTA TECHNOLOGIES, INC",
         "vendorpath": [
@@ -571,7 +584,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AZTEC ELECTRICAL SUPPLY INC": {
         "vendorfullpath": "P:\\VENDORS\\A\\AZTEC ELECTRICAL SUPPLY INC",
         "vendorname": "AZTEC ELECTRICAL SUPPLY INC",
         "vendorpath": [
@@ -580,9 +593,12 @@
             "A",
             "AZTEC ELECTRICAL SUPPLY INC"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "BUSSMANN",
+            "EATON"
+        ]
     },
-    {
+    "B & D STEEL": {
         "vendorfullpath": "P:\\VENDORS\\B\\B & D STEEL",
         "vendorname": "B & D STEEL",
         "vendorpath": [
@@ -593,7 +609,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "B&B ELECTRONICS": {
         "vendorfullpath": "P:\\VENDORS\\B\\B&B ELECTRONICS",
         "vendorname": "B&B ELECTRONICS",
         "vendorpath": [
@@ -604,7 +620,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BANNER": {
         "vendorfullpath": "P:\\VENDORS\\B\\BANNER",
         "vendorname": "BANNER",
         "vendorpath": [
@@ -615,7 +631,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BATREC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BATREC",
         "vendorname": "BATREC",
         "vendorpath": [
@@ -626,7 +642,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BATTLEFIELD ADVERTISING": {
         "vendorfullpath": "P:\\VENDORS\\B\\BATTLEFIELD ADVERTISING",
         "vendorname": "BATTLEFIELD ADVERTISING",
         "vendorpath": [
@@ -637,7 +653,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BEGHELLI LUCE": {
         "vendorfullpath": "P:\\VENDORS\\B\\BEGHELLI LUCE",
         "vendorname": "BEGHELLI LUCE",
         "vendorpath": [
@@ -648,7 +664,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BEI": {
         "vendorfullpath": "P:\\VENDORS\\B\\BEI",
         "vendorname": "BEI",
         "vendorpath": [
@@ -659,7 +675,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BELDING TANKS": {
         "vendorfullpath": "P:\\VENDORS\\B\\BELDING TANKS",
         "vendorname": "BELDING TANKS",
         "vendorpath": [
@@ -670,7 +686,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BELL & MACKENZIE": {
         "vendorfullpath": "P:\\VENDORS\\B\\BELL & MACKENZIE",
         "vendorname": "BELL & MACKENZIE",
         "vendorpath": [
@@ -681,7 +697,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BEX ENGINEERING LIMITED": {
         "vendorfullpath": "P:\\VENDORS\\B\\BEX ENGINEERING LIMITED",
         "vendorname": "BEX ENGINEERING LIMITED",
         "vendorpath": [
@@ -692,7 +708,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BI-TORQ": {
         "vendorfullpath": "P:\\VENDORS\\B\\BI-TORQ",
         "vendorname": "BI-TORQ",
         "vendorpath": [
@@ -703,7 +719,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BIBICO ELECTRIC INC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BIBICO ELECTRIC INC",
         "vendorname": "BIBICO ELECTRIC INC",
         "vendorpath": [
@@ -714,7 +730,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BIOLAB": {
         "vendorfullpath": "P:\\VENDORS\\B\\BIOLAB",
         "vendorname": "BIOLAB",
         "vendorpath": [
@@ -723,9 +739,11 @@
             "B",
             "BIOLAB"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "STILMAS AMERICAS INC"
+        ]
     },
-    {
+    "BJM PUMPS": {
         "vendorfullpath": "P:\\VENDORS\\B\\BJM PUMPS",
         "vendorname": "BJM PUMPS",
         "vendorpath": [
@@ -736,7 +754,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BLOCKS": {
         "vendorfullpath": "P:\\VENDORS\\B\\BLOCKS",
         "vendorname": "BLOCKS",
         "vendorpath": [
@@ -745,9 +763,11 @@
             "B",
             "BLOCKS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "BLOCKS"
+        ]
     },
-    {
+    "BMCO INDUSTRIES": {
         "vendorfullpath": "P:\\VENDORS\\B\\BMCO INDUSTRIES",
         "vendorname": "BMCO INDUSTRIES",
         "vendorpath": [
@@ -758,7 +778,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BONOMI NORTH AMERICA INC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BONOMI NORTH AMERICA INC",
         "vendorname": "BONOMI NORTH AMERICA INC",
         "vendorpath": [
@@ -767,9 +787,11 @@
             "B",
             "BONOMI NORTH AMERICA INC"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Bonomi Valves (do not change this folder)"
+        ]
     },
-    {
+    "BRADLEY": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRADLEY",
         "vendorname": "BRADLEY",
         "vendorpath": [
@@ -780,7 +802,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRADY LABELS": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRADY LABELS",
         "vendorname": "BRADY LABELS",
         "vendorpath": [
@@ -789,9 +811,11 @@
             "B",
             "BRADY LABELS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "AZTEC"
+        ]
     },
-    {
+    "BRAFASCO": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRAFASCO",
         "vendorname": "BRAFASCO",
         "vendorpath": [
@@ -802,7 +826,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRAMKAL": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRAMKAL",
         "vendorname": "BRAMKAL",
         "vendorpath": [
@@ -813,7 +837,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRAMUR PLASTICS": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRAMUR PLASTICS",
         "vendorname": "BRAMUR PLASTICS",
         "vendorpath": [
@@ -824,7 +848,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRAWN MIXER INC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRAWN MIXER INC",
         "vendorname": "BRAWN MIXER INC",
         "vendorpath": [
@@ -835,7 +859,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRAY": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRAY",
         "vendorname": "BRAY",
         "vendorpath": [
@@ -846,7 +870,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRENNTAG": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRENNTAG",
         "vendorname": "BRENNTAG",
         "vendorpath": [
@@ -857,7 +881,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BRENTWOOD INDUSTRIES": {
         "vendorfullpath": "P:\\VENDORS\\B\\BRENTWOOD INDUSTRIES",
         "vendorname": "BRENTWOOD INDUSTRIES",
         "vendorpath": [
@@ -868,7 +892,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BURKERT CONTROMATIC INC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BURKERT CONTROMATIC INC",
         "vendorname": "BURKERT CONTROMATIC INC",
         "vendorpath": [
@@ -879,7 +903,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BURLINGTON PUMP INC": {
         "vendorfullpath": "P:\\VENDORS\\B\\BURLINGTON PUMP INC",
         "vendorname": "BURLINGTON PUMP INC",
         "vendorpath": [
@@ -890,7 +914,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "BURLOAK TOOL & DIE": {
         "vendorfullpath": "P:\\VENDORS\\B\\BURLOAK TOOL & DIE",
         "vendorname": "BURLOAK TOOL & DIE",
         "vendorpath": [
@@ -899,9 +923,11 @@
             "B",
             "BURLOAK TOOL & DIE"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "MAINWAY METALWORKS INC"
+        ]
     },
-    {
+    "BUSSMANN": {
         "vendorfullpath": "P:\\VENDORS\\B\\BUSSMANN",
         "vendorname": "BUSSMANN",
         "vendorpath": [
@@ -910,9 +936,13 @@
             "B",
             "BUSSMANN"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "GRAYBAR CANADA",
+            "EATON"
+        ]
     },
-    {
+    "CALGON CARBON CORPORATION": {
         "vendorfullpath": "P:\\VENDORS\\C\\CALGON CARBON CORPORATION",
         "vendorname": "CALGON CARBON CORPORATION",
         "vendorpath": [
@@ -923,7 +953,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CAMBRIDGE FILTER": {
         "vendorfullpath": "P:\\VENDORS\\C\\CAMBRIDGE FILTER",
         "vendorname": "CAMBRIDGE FILTER",
         "vendorpath": [
@@ -934,7 +964,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CANADA BLOWER": {
         "vendorfullpath": "P:\\VENDORS\\C\\CANADA BLOWER",
         "vendorname": "CANADA BLOWER",
         "vendorpath": [
@@ -945,7 +975,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CANADA RUBBER": {
         "vendorfullpath": "P:\\VENDORS\\C\\CANADA RUBBER",
         "vendorname": "CANADA RUBBER",
         "vendorpath": [
@@ -956,7 +986,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CANADIAN BEARINGS LTD": {
         "vendorfullpath": "P:\\VENDORS\\C\\CANADIAN BEARINGS LTD",
         "vendorname": "CANADIAN BEARINGS LTD",
         "vendorpath": [
@@ -967,7 +997,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CANATURE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CANATURE",
         "vendorname": "CANATURE",
         "vendorpath": [
@@ -978,7 +1008,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CANEX": {
         "vendorfullpath": "P:\\VENDORS\\C\\CANEX",
         "vendorname": "CANEX",
         "vendorpath": [
@@ -989,7 +1019,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CARL STAHL SAVA INDUSTRIES": {
         "vendorfullpath": "P:\\VENDORS\\C\\CARL STAHL SAVA INDUSTRIES",
         "vendorname": "CARL STAHL SAVA INDUSTRIES",
         "vendorpath": [
@@ -1000,7 +1030,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CARLO GAVAZZI": {
         "vendorfullpath": "P:\\VENDORS\\C\\CARLO GAVAZZI",
         "vendorname": "CARLO GAVAZZI",
         "vendorpath": [
@@ -1011,7 +1041,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CARREM CONTROLS": {
         "vendorfullpath": "P:\\VENDORS\\C\\CARREM CONTROLS",
         "vendorname": "CARREM CONTROLS",
         "vendorpath": [
@@ -1020,9 +1050,11 @@
             "C",
             "CARREM CONTROLS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "PARTLOW"
+        ]
     },
-    {
+    "CAST": {
         "vendorfullpath": "P:\\VENDORS\\C\\CAST",
         "vendorname": "CAST",
         "vendorpath": [
@@ -1033,7 +1065,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CCC CHEMICALS": {
         "vendorfullpath": "P:\\VENDORS\\C\\CCC CHEMICALS",
         "vendorname": "CCC CHEMICALS",
         "vendorpath": [
@@ -1044,7 +1076,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CCI": {
         "vendorfullpath": "P:\\VENDORS\\C\\CCI",
         "vendorname": "CCI",
         "vendorpath": [
@@ -1055,7 +1087,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CES": {
         "vendorfullpath": "P:\\VENDORS\\C\\CES",
         "vendorname": "CES",
         "vendorpath": [
@@ -1064,9 +1096,11 @@
             "C",
             "CES"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "CITY ELECTRIC SUPPLY"
+        ]
     },
-    {
+    "CFM": {
         "vendorfullpath": "P:\\VENDORS\\C\\CFM",
         "vendorname": "CFM",
         "vendorpath": [
@@ -1077,7 +1111,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CHEMLINE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CHEMLINE",
         "vendorname": "CHEMLINE",
         "vendorpath": [
@@ -1088,7 +1122,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CHICAGO ACTUATORS": {
         "vendorfullpath": "P:\\VENDORS\\C\\CHICAGO ACTUATORS",
         "vendorname": "CHICAGO ACTUATORS",
         "vendorpath": [
@@ -1099,7 +1133,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CHROMOLOX": {
         "vendorfullpath": "P:\\VENDORS\\C\\CHROMOLOX",
         "vendorname": "CHROMOLOX",
         "vendorpath": [
@@ -1110,7 +1144,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CITY ELECTRIC SUPPLY": {
         "vendorfullpath": "P:\\VENDORS\\C\\CITY ELECTRIC SUPPLY",
         "vendorname": "CITY ELECTRIC SUPPLY",
         "vendorpath": [
@@ -1121,7 +1155,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CLEAR EDGE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CLEAR EDGE",
         "vendorname": "CLEAR EDGE",
         "vendorpath": [
@@ -1132,7 +1166,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CLEARTECH INDUSTRIES INC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CLEARTECH INDUSTRIES INC",
         "vendorname": "CLEARTECH INDUSTRIES INC",
         "vendorpath": [
@@ -1143,7 +1177,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CODELINE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CODELINE",
         "vendorname": "CODELINE",
         "vendorpath": [
@@ -1154,7 +1188,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "COLE-PALMER": {
         "vendorfullpath": "P:\\VENDORS\\C\\COLE-PALMER",
         "vendorname": "COLE-PALMER",
         "vendorpath": [
@@ -1165,7 +1199,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "COMADAN": {
         "vendorfullpath": "P:\\VENDORS\\C\\COMADAN",
         "vendorname": "COMADAN",
         "vendorpath": [
@@ -1176,7 +1210,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "COMCO PIPE & SUPPLY COMPANY": {
         "vendorfullpath": "P:\\VENDORS\\C\\COMCO PIPE & SUPPLY COMPANY",
         "vendorname": "COMCO PIPE & SUPPLY COMPANY",
         "vendorpath": [
@@ -1187,7 +1221,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONREC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONREC",
         "vendorname": "CONREC",
         "vendorpath": [
@@ -1198,7 +1232,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONTINENTAL CARBON GROUP": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONTINENTAL CARBON GROUP",
         "vendorname": "CONTINENTAL CARBON GROUP",
         "vendorpath": [
@@ -1209,7 +1243,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONTINENTAL CONTROL SYSTEMS LLC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONTINENTAL CONTROL SYSTEMS LLC",
         "vendorname": "CONTINENTAL CONTROL SYSTEMS LLC",
         "vendorpath": [
@@ -1220,7 +1254,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONTINENTAL HYDRODYNE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONTINENTAL HYDRODYNE",
         "vendorname": "CONTINENTAL HYDRODYNE",
         "vendorpath": [
@@ -1231,7 +1265,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONTRO VALVE INC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONTRO VALVE INC",
         "vendorname": "CONTRO VALVE INC",
         "vendorpath": [
@@ -1242,7 +1276,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONTROTECH AUTOMATION": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONTROTECH AUTOMATION",
         "vendorname": "CONTROTECH AUTOMATION",
         "vendorpath": [
@@ -1253,7 +1287,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CONVAL EQUIPMENT LTD": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONVAL EQUIPMENT LTD",
         "vendorname": "CONVAL EQUIPMENT LTD",
         "vendorpath": [
@@ -1262,9 +1296,11 @@
             "C",
             "CONVAL EQUIPMENT LTD"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "PLAST-O-MATIC VALVES, INC"
+        ]
     },
-    {
+    "CONVEYORS, INC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CONVEYORS, INC",
         "vendorname": "CONVEYORS, INC",
         "vendorpath": [
@@ -1275,7 +1311,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "COOPER BUSSMANN": {
         "vendorfullpath": "P:\\VENDORS\\C\\COOPER BUSSMANN",
         "vendorname": "COOPER BUSSMANN",
         "vendorpath": [
@@ -1284,9 +1320,11 @@
             "C",
             "COOPER BUSSMANN"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "BUSSMANN"
+        ]
     },
-    {
+    "COOPER LIGHTING": {
         "vendorfullpath": "P:\\VENDORS\\C\\COOPER LIGHTING",
         "vendorname": "COOPER LIGHTING",
         "vendorpath": [
@@ -1297,7 +1335,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "COWPER INC": {
         "vendorfullpath": "P:\\VENDORS\\C\\COWPER INC",
         "vendorname": "COWPER INC",
         "vendorpath": [
@@ -1308,7 +1346,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CRANE": {
         "vendorfullpath": "P:\\VENDORS\\C\\CRANE",
         "vendorname": "CRANE",
         "vendorpath": [
@@ -1319,7 +1357,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CULLIGAN INTERNATIONAL COMPANY": {
         "vendorfullpath": "P:\\VENDORS\\C\\CULLIGAN INTERNATIONAL COMPANY",
         "vendorname": "CULLIGAN INTERNATIONAL COMPANY",
         "vendorpath": [
@@ -1330,7 +1368,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CUSTOM MASTERS INC": {
         "vendorfullpath": "P:\\VENDORS\\C\\CUSTOM MASTERS INC",
         "vendorname": "CUSTOM MASTERS INC",
         "vendorpath": [
@@ -1339,9 +1377,11 @@
             "C",
             "CUSTOM MASTERS INC"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "FLO KING"
+        ]
     },
-    {
+    "CUTLER-HAMMER": {
         "vendorfullpath": "P:\\VENDORS\\C\\CUTLER-HAMMER",
         "vendorname": "CUTLER-HAMMER",
         "vendorpath": [
@@ -1350,9 +1390,11 @@
             "C",
             "CUTLER-HAMMER"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "EATON"
+        ]
     },
-    {
+    "DAEMAR INC": {
         "vendorfullpath": "P:\\VENDORS\\D\\DAEMAR INC",
         "vendorname": "DAEMAR INC",
         "vendorpath": [
@@ -1363,7 +1405,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DAF": {
         "vendorfullpath": "P:\\VENDORS\\D\\DAF",
         "vendorname": "DAF",
         "vendorpath": [
@@ -1374,7 +1416,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DALIBOR": {
         "vendorfullpath": "P:\\VENDORS\\D\\DALIBOR",
         "vendorname": "DALIBOR",
         "vendorpath": [
@@ -1383,9 +1425,11 @@
             "D",
             "DALIBOR"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "PSR INC"
+        ]
     },
-    {
+    "DANFOSS": {
         "vendorfullpath": "P:\\VENDORS\\D\\DANFOSS",
         "vendorname": "DANFOSS",
         "vendorpath": [
@@ -1396,7 +1440,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DAVIS CONTROLS LTD": {
         "vendorfullpath": "P:\\VENDORS\\D\\DAVIS CONTROLS LTD",
         "vendorname": "DAVIS CONTROLS LTD",
         "vendorpath": [
@@ -1407,7 +1451,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DEDICATED PLASTIC TANKS INC": {
         "vendorfullpath": "P:\\VENDORS\\D\\DEDICATED PLASTIC TANKS INC",
         "vendorname": "DEDICATED PLASTIC TANKS INC",
         "vendorpath": [
@@ -1418,7 +1462,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DOW RESINS": {
         "vendorfullpath": "P:\\VENDORS\\D\\DOW RESINS",
         "vendorname": "DOW RESINS",
         "vendorpath": [
@@ -1427,9 +1471,11 @@
             "D",
             "DOW RESINS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "DUPONT"
+        ]
     },
-    {
+    "DRAEGER SAFETY CANADA LTD": {
         "vendorfullpath": "P:\\VENDORS\\D\\DRAEGER SAFETY CANADA LTD",
         "vendorname": "DRAEGER SAFETY CANADA LTD",
         "vendorpath": [
@@ -1440,7 +1486,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DUALL or HEE-DUALL": {
         "vendorfullpath": "P:\\VENDORS\\D\\DUALL or HEE-DUALL",
         "vendorname": "DUALL or HEE-DUALL",
         "vendorpath": [
@@ -1449,9 +1495,11 @@
             "D",
             "DUALL or HEE-DUALL"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "METPRO CORPORATION"
+        ]
     },
-    {
+    "DUPONT": {
         "vendorfullpath": "P:\\VENDORS\\D\\DUPONT",
         "vendorname": "DUPONT",
         "vendorpath": [
@@ -1462,7 +1510,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DURAFLOW": {
         "vendorfullpath": "P:\\VENDORS\\D\\DURAFLOW",
         "vendorname": "DURAFLOW",
         "vendorpath": [
@@ -1473,7 +1521,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DWS": {
         "vendorfullpath": "P:\\VENDORS\\D\\DWS",
         "vendorname": "DWS",
         "vendorpath": [
@@ -1484,7 +1532,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "DYNAMIX": {
         "vendorfullpath": "P:\\VENDORS\\D\\DYNAMIX",
         "vendorname": "DYNAMIX",
         "vendorpath": [
@@ -1495,7 +1543,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EASTERN BEARINGS": {
         "vendorfullpath": "P:\\VENDORS\\E\\EASTERN BEARINGS",
         "vendorname": "EASTERN BEARINGS",
         "vendorpath": [
@@ -1506,7 +1554,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EATON": {
         "vendorfullpath": "P:\\VENDORS\\E\\EATON",
         "vendorname": "EATON",
         "vendorpath": [
@@ -1515,9 +1563,13 @@
             "E",
             "EATON"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "GRAYBAR CANADA"
+        ]
     },
-    {
+    "ECODYNE INDUSTRIAL": {
         "vendorfullpath": "P:\\VENDORS\\E\\ECODYNE INDUSTRIAL",
         "vendorname": "ECODYNE INDUSTRIAL",
         "vendorpath": [
@@ -1528,7 +1580,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ECOWATER": {
         "vendorfullpath": "P:\\VENDORS\\E\\ECOWATER",
         "vendorname": "ECOWATER",
         "vendorpath": [
@@ -1539,7 +1591,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EDWARD SIGNALING": {
         "vendorfullpath": "P:\\VENDORS\\E\\EDWARD SIGNALING",
         "vendorname": "EDWARD SIGNALING",
         "vendorpath": [
@@ -1550,7 +1602,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EIMCO": {
         "vendorfullpath": "P:\\VENDORS\\E\\EIMCO",
         "vendorname": "EIMCO",
         "vendorpath": [
@@ -1561,7 +1613,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EMCO": {
         "vendorfullpath": "P:\\VENDORS\\E\\EMCO",
         "vendorname": "EMCO",
         "vendorpath": [
@@ -1572,7 +1624,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EMERSON": {
         "vendorfullpath": "P:\\VENDORS\\E\\EMERSON",
         "vendorname": "EMERSON",
         "vendorpath": [
@@ -1581,9 +1633,14 @@
             "E",
             "EMERSON"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "ASCO NUMATICS",
+            "Rosemount",
+            "ASCO NUMATICS",
+            "LAKESIDE PROCESS CONTROLS LTD"
+        ]
     },
-    {
+    "ENCON": {
         "vendorfullpath": "P:\\VENDORS\\E\\ENCON",
         "vendorname": "ENCON",
         "vendorpath": [
@@ -1594,7 +1651,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ENDRESS+HAUSER": {
         "vendorfullpath": "P:\\VENDORS\\E\\ENDRESS+HAUSER",
         "vendorname": "ENDRESS+HAUSER",
         "vendorpath": [
@@ -1605,7 +1662,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ENERPAC": {
         "vendorfullpath": "P:\\VENDORS\\E\\ENERPAC",
         "vendorname": "ENERPAC",
         "vendorpath": [
@@ -1616,7 +1673,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EVOQUA": {
         "vendorfullpath": "P:\\VENDORS\\E\\EVOQUA",
         "vendorname": "EVOQUA",
         "vendorpath": [
@@ -1627,7 +1684,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EWON": {
         "vendorfullpath": "P:\\VENDORS\\E\\EWON",
         "vendorname": "EWON",
         "vendorpath": [
@@ -1638,7 +1695,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EXCALIBUR": {
         "vendorfullpath": "P:\\VENDORS\\E\\EXCALIBUR",
         "vendorname": "EXCALIBUR",
         "vendorpath": [
@@ -1649,7 +1706,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "EXCELL": {
         "vendorfullpath": "P:\\VENDORS\\E\\EXCELL",
         "vendorname": "EXCELL",
         "vendorpath": [
@@ -1660,7 +1717,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FABCO": {
         "vendorfullpath": "P:\\VENDORS\\F\\FABCO",
         "vendorname": "FABCO",
         "vendorpath": [
@@ -1671,7 +1728,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FACET": {
         "vendorfullpath": "P:\\VENDORS\\F\\FACET",
         "vendorname": "FACET",
         "vendorpath": [
@@ -1682,7 +1739,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FACTORY DIRECT PIPING PRODUCTS": {
         "vendorfullpath": "P:\\VENDORS\\F\\FACTORY DIRECT PIPING PRODUCTS",
         "vendorname": "FACTORY DIRECT PIPING PRODUCTS",
         "vendorpath": [
@@ -1693,7 +1750,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FALCON": {
         "vendorfullpath": "P:\\VENDORS\\F\\FALCON",
         "vendorname": "FALCON",
         "vendorpath": [
@@ -1704,7 +1761,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FASTENAL": {
         "vendorfullpath": "P:\\VENDORS\\F\\FASTENAL",
         "vendorname": "FASTENAL",
         "vendorpath": [
@@ -1715,7 +1772,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FEDERAL SCREEN": {
         "vendorfullpath": "P:\\VENDORS\\F\\FEDERAL SCREEN",
         "vendorname": "FEDERAL SCREEN",
         "vendorpath": [
@@ -1726,7 +1783,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FELLOWES": {
         "vendorfullpath": "P:\\VENDORS\\F\\FELLOWES",
         "vendorname": "FELLOWES",
         "vendorpath": [
@@ -1737,7 +1794,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FERNCO": {
         "vendorfullpath": "P:\\VENDORS\\F\\FERNCO",
         "vendorname": "FERNCO",
         "vendorpath": [
@@ -1748,7 +1805,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FERRAZ SHAWMUT": {
         "vendorfullpath": "P:\\VENDORS\\F\\FERRAZ SHAWMUT",
         "vendorname": "FERRAZ SHAWMUT",
         "vendorpath": [
@@ -1759,7 +1816,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FESTO": {
         "vendorfullpath": "P:\\VENDORS\\F\\FESTO",
         "vendorname": "FESTO",
         "vendorpath": [
@@ -1770,7 +1827,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FIL-TREK": {
         "vendorfullpath": "P:\\VENDORS\\F\\FIL-TREK",
         "vendorname": "FIL-TREK",
         "vendorpath": [
@@ -1781,7 +1838,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FILTER BEDS": {
         "vendorfullpath": "P:\\VENDORS\\F\\FILTER BEDS",
         "vendorname": "FILTER BEDS",
         "vendorpath": [
@@ -1792,7 +1849,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FILTRATION & SEPARATION": {
         "vendorfullpath": "P:\\VENDORS\\F\\FILTRATION & SEPARATION",
         "vendorname": "FILTRATION & SEPARATION",
         "vendorpath": [
@@ -1803,7 +1860,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FILTRONICS": {
         "vendorfullpath": "P:\\VENDORS\\F\\FILTRONICS",
         "vendorname": "FILTRONICS",
         "vendorpath": [
@@ -1814,7 +1871,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FINDER": {
         "vendorfullpath": "P:\\VENDORS\\F\\FINDER",
         "vendorname": "FINDER",
         "vendorpath": [
@@ -1825,7 +1882,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FLO KING": {
         "vendorfullpath": "P:\\VENDORS\\F\\FLO KING",
         "vendorname": "FLO KING",
         "vendorpath": [
@@ -1834,9 +1891,11 @@
             "F",
             "FLO KING"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "CUSTOM MASTERS INC"
+        ]
     },
-    {
+    "FLOWLINE": {
         "vendorfullpath": "P:\\VENDORS\\F\\FLOWLINE",
         "vendorname": "FLOWLINE",
         "vendorpath": [
@@ -1847,7 +1906,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FLUIDLINE INC": {
         "vendorfullpath": "P:\\VENDORS\\F\\FLUIDLINE INC",
         "vendorname": "FLUIDLINE INC",
         "vendorpath": [
@@ -1858,7 +1917,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FRANKLIN EMPIRE": {
         "vendorfullpath": "P:\\VENDORS\\F\\FRANKLIN EMPIRE",
         "vendorname": "FRANKLIN EMPIRE",
         "vendorpath": [
@@ -1869,7 +1928,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "FRON ELECTRIC": {
         "vendorfullpath": "P:\\VENDORS\\F\\FRON ELECTRIC",
         "vendorname": "FRON ELECTRIC",
         "vendorpath": [
@@ -1880,7 +1939,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GARLOCK": {
         "vendorfullpath": "P:\\VENDORS\\G\\GARLOCK",
         "vendorname": "GARLOCK",
         "vendorpath": [
@@ -1891,7 +1950,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GAST BLOWER": {
         "vendorfullpath": "P:\\VENDORS\\G\\GAST BLOWER",
         "vendorname": "GAST BLOWER",
         "vendorpath": [
@@ -1902,7 +1961,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GEMS": {
         "vendorfullpath": "P:\\VENDORS\\G\\GEMS",
         "vendorname": "GEMS",
         "vendorpath": [
@@ -1911,9 +1970,11 @@
             "G",
             "GEMS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "DAVIS CONTROLS LTD"
+        ]
     },
-    {
+    "GENERAL FILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\G\\GENERAL FILTRATION",
         "vendorname": "GENERAL FILTRATION",
         "vendorpath": [
@@ -1924,7 +1985,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GEORGE FISCHER PIPING SYSTEMS": {
         "vendorfullpath": "P:\\VENDORS\\G\\GEORGE FISCHER PIPING SYSTEMS",
         "vendorname": "GEORGE FISCHER PIPING SYSTEMS",
         "vendorpath": [
@@ -1933,9 +1994,11 @@
             "G",
             "GEORGE FISCHER PIPING SYSTEMS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Signet"
+        ]
     },
-    {
+    "GERRIE": {
         "vendorfullpath": "P:\\VENDORS\\G\\GERRIE",
         "vendorname": "GERRIE",
         "vendorpath": [
@@ -1946,7 +2009,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GF": {
         "vendorfullpath": "P:\\VENDORS\\G\\GF",
         "vendorname": "GF",
         "vendorpath": [
@@ -1955,9 +2018,11 @@
             "G",
             "GF"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "GEORGE FISCHER PIPING SYSTEMS"
+        ]
     },
-    {
+    "GOOD WATER": {
         "vendorfullpath": "P:\\VENDORS\\G\\GOOD WATER",
         "vendorname": "GOOD WATER",
         "vendorpath": [
@@ -1968,7 +2033,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GOULDS PUMP": {
         "vendorfullpath": "P:\\VENDORS\\G\\GOULDS PUMP",
         "vendorname": "GOULDS PUMP",
         "vendorpath": [
@@ -1979,7 +2044,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRACE ENGINEERING": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRACE ENGINEERING",
         "vendorname": "GRACE ENGINEERING",
         "vendorpath": [
@@ -1990,7 +2055,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRACO": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRACO",
         "vendorname": "GRACO",
         "vendorpath": [
@@ -2001,7 +2066,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRAINGER CANADA": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRAINGER CANADA",
         "vendorname": "GRAINGER CANADA",
         "vendorpath": [
@@ -2012,7 +2077,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRAPHIC CONTROLS": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRAPHIC CONTROLS",
         "vendorname": "GRAPHIC CONTROLS",
         "vendorpath": [
@@ -2023,7 +2088,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRATEC": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRATEC",
         "vendorname": "GRATEC",
         "vendorpath": [
@@ -2034,7 +2099,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRAVER": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRAVER",
         "vendorname": "GRAVER",
         "vendorpath": [
@@ -2045,7 +2110,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRAVER CORPORATE": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRAVER CORPORATE",
         "vendorname": "GRAVER CORPORATE",
         "vendorpath": [
@@ -2056,7 +2121,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GRAYBAR CANADA": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRAYBAR CANADA",
         "vendorname": "GRAYBAR CANADA",
         "vendorpath": [
@@ -2065,9 +2130,11 @@
             "G",
             "GRAYBAR CANADA"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "BUSSMANN"
+        ]
     },
-    {
+    "GRUNDFOS": {
         "vendorfullpath": "P:\\VENDORS\\G\\GRUNDFOS",
         "vendorname": "GRUNDFOS",
         "vendorpath": [
@@ -2078,7 +2145,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GTI WASTE": {
         "vendorfullpath": "P:\\VENDORS\\G\\GTI WASTE",
         "vendorname": "GTI WASTE",
         "vendorpath": [
@@ -2089,7 +2156,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "GUILLEVIN": {
         "vendorfullpath": "P:\\VENDORS\\G\\GUILLEVIN",
         "vendorname": "GUILLEVIN",
         "vendorpath": [
@@ -2100,7 +2167,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "H2 FLOW": {
         "vendorfullpath": "P:\\VENDORS\\H\\H2 FLOW",
         "vendorname": "H2 FLOW",
         "vendorpath": [
@@ -2111,7 +2178,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "H2O GMBH": {
         "vendorfullpath": "P:\\VENDORS\\H\\H2O GMBH",
         "vendorname": "H2O GMBH",
         "vendorpath": [
@@ -2122,7 +2189,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HACH": {
         "vendorfullpath": "P:\\VENDORS\\H\\HACH",
         "vendorname": "HACH",
         "vendorpath": [
@@ -2133,7 +2200,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAM-LET": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAM-LET",
         "vendorname": "HAM-LET",
         "vendorpath": [
@@ -2144,7 +2211,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAMILTON PACKAGING": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAMILTON PACKAGING",
         "vendorname": "HAMILTON PACKAGING",
         "vendorpath": [
@@ -2155,7 +2222,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAMILTON PLASTICS": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAMILTON PLASTICS",
         "vendorname": "HAMILTON PLASTICS",
         "vendorpath": [
@@ -2166,7 +2233,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAMMOND MFG": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAMMOND MFG",
         "vendorname": "HAMMOND MFG",
         "vendorpath": [
@@ -2177,7 +2244,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAMMOND POWER SOLUTIONS": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAMMOND POWER SOLUTIONS",
         "vendorname": "HAMMOND POWER SOLUTIONS",
         "vendorpath": [
@@ -2188,7 +2255,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HANKISON": {
         "vendorfullpath": "P:\\VENDORS\\H\\HANKISON",
         "vendorname": "HANKISON",
         "vendorpath": [
@@ -2199,7 +2266,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HANNA": {
         "vendorfullpath": "P:\\VENDORS\\H\\HANNA",
         "vendorname": "HANNA",
         "vendorpath": [
@@ -2210,7 +2277,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HARTMAN & HARTMAN": {
         "vendorfullpath": "P:\\VENDORS\\H\\HARTMAN & HARTMAN",
         "vendorname": "HARTMAN & HARTMAN",
         "vendorpath": [
@@ -2221,7 +2288,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HAYWARD VALVES": {
         "vendorfullpath": "P:\\VENDORS\\H\\HAYWARD VALVES",
         "vendorname": "HAYWARD VALVES",
         "vendorpath": [
@@ -2232,7 +2299,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HENRY FILTER": {
         "vendorfullpath": "P:\\VENDORS\\H\\HENRY FILTER",
         "vendorname": "HENRY FILTER",
         "vendorpath": [
@@ -2243,7 +2310,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HOFFMAN": {
         "vendorfullpath": "P:\\VENDORS\\H\\HOFFMAN",
         "vendorname": "HOFFMAN",
         "vendorpath": [
@@ -2254,7 +2321,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HPS": {
         "vendorfullpath": "P:\\VENDORS\\H\\HPS",
         "vendorname": "HPS",
         "vendorpath": [
@@ -2263,9 +2330,11 @@
             "H",
             "HPS"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Hammond Power Solutions"
+        ]
     },
-    {
+    "HUBBELL": {
         "vendorfullpath": "P:\\VENDORS\\H\\HUBBELL",
         "vendorname": "HUBBELL",
         "vendorpath": [
@@ -2276,7 +2345,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "HYDRODYNE INSTRUMENT": {
         "vendorfullpath": "P:\\VENDORS\\H\\HYDRODYNE INSTRUMENT",
         "vendorname": "HYDRODYNE INSTRUMENT",
         "vendorpath": [
@@ -2287,7 +2356,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ICON": {
         "vendorfullpath": "P:\\VENDORS\\I\\ICON",
         "vendorname": "ICON",
         "vendorpath": [
@@ -2298,7 +2367,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ICS": {
         "vendorfullpath": "P:\\VENDORS\\I\\ICS",
         "vendorname": "ICS",
         "vendorpath": [
@@ -2309,7 +2378,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "IFM": {
         "vendorfullpath": "P:\\VENDORS\\I\\IFM",
         "vendorname": "IFM",
         "vendorpath": [
@@ -2320,7 +2389,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "IMCD": {
         "vendorfullpath": "P:\\VENDORS\\I\\IMCD",
         "vendorname": "IMCD",
         "vendorpath": [
@@ -2331,7 +2400,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "IMS": {
         "vendorfullpath": "P:\\VENDORS\\I\\IMS",
         "vendorname": "IMS",
         "vendorpath": [
@@ -2342,7 +2411,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "INDUSTRIAL PLASTICS": {
         "vendorfullpath": "P:\\VENDORS\\I\\INDUSTRIAL PLASTICS",
         "vendorname": "INDUSTRIAL PLASTICS",
         "vendorpath": [
@@ -2353,7 +2422,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "INDUSTRIAL STEAM": {
         "vendorfullpath": "P:\\VENDORS\\I\\INDUSTRIAL STEAM",
         "vendorname": "INDUSTRIAL STEAM",
         "vendorpath": [
@@ -2364,7 +2433,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "INPROTECH": {
         "vendorfullpath": "P:\\VENDORS\\I\\INPROTECH",
         "vendorname": "INPROTECH",
         "vendorpath": [
@@ -2375,7 +2444,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "INTERNATIONAL PLASTICS FABRICATORS": {
         "vendorfullpath": "P:\\VENDORS\\I\\INTERNATIONAL PLASTICS FABRICATORS",
         "vendorname": "INTERNATIONAL PLASTICS FABRICATORS",
         "vendorpath": [
@@ -2386,7 +2455,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "INVERSAND": {
         "vendorfullpath": "P:\\VENDORS\\I\\INVERSAND",
         "vendorname": "INVERSAND",
         "vendorpath": [
@@ -2397,7 +2466,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ITC": {
         "vendorfullpath": "P:\\VENDORS\\I\\ITC",
         "vendorname": "ITC",
         "vendorpath": [
@@ -2408,7 +2477,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "IWAKI PUMP": {
         "vendorfullpath": "P:\\VENDORS\\I\\IWAKI PUMP",
         "vendorname": "IWAKI PUMP",
         "vendorpath": [
@@ -2419,7 +2488,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JAVELIN": {
         "vendorfullpath": "P:\\VENDORS\\J\\JAVELIN",
         "vendorname": "JAVELIN",
         "vendorpath": [
@@ -2430,7 +2499,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JB CONNEXIONS": {
         "vendorfullpath": "P:\\VENDORS\\J\\JB CONNEXIONS",
         "vendorname": "JB CONNEXIONS",
         "vendorpath": [
@@ -2441,7 +2510,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JENCO": {
         "vendorfullpath": "P:\\VENDORS\\J\\JENCO",
         "vendorname": "JENCO",
         "vendorpath": [
@@ -2452,7 +2521,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JNE CONSULTING": {
         "vendorfullpath": "P:\\VENDORS\\J\\JNE CONSULTING",
         "vendorname": "JNE CONSULTING",
         "vendorpath": [
@@ -2463,7 +2532,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JOHN BROOKS": {
         "vendorfullpath": "P:\\VENDORS\\J\\JOHN BROOKS",
         "vendorname": "JOHN BROOKS",
         "vendorpath": [
@@ -2474,7 +2543,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JOHNSON PATTERSON": {
         "vendorfullpath": "P:\\VENDORS\\J\\JOHNSON PATTERSON",
         "vendorname": "JOHNSON PATTERSON",
         "vendorpath": [
@@ -2485,7 +2554,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JOHNSTON PLASTICS": {
         "vendorfullpath": "P:\\VENDORS\\J\\JOHNSTON PLASTICS",
         "vendorname": "JOHNSTON PLASTICS",
         "vendorpath": [
@@ -2496,7 +2565,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "JUMO": {
         "vendorfullpath": "P:\\VENDORS\\J\\JUMO",
         "vendorname": "JUMO",
         "vendorpath": [
@@ -2507,7 +2576,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KB ELECTRONICS": {
         "vendorfullpath": "P:\\VENDORS\\K\\KB ELECTRONICS",
         "vendorname": "KB ELECTRONICS",
         "vendorpath": [
@@ -2518,7 +2587,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KD SIGNS": {
         "vendorfullpath": "P:\\VENDORS\\K\\KD SIGNS",
         "vendorname": "KD SIGNS",
         "vendorpath": [
@@ -2529,7 +2598,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KEYENCE": {
         "vendorfullpath": "P:\\VENDORS\\K\\KEYENCE",
         "vendorname": "KEYENCE",
         "vendorpath": [
@@ -2540,7 +2609,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KINETICO": {
         "vendorfullpath": "P:\\VENDORS\\K\\KINETICO",
         "vendorname": "KINETICO",
         "vendorpath": [
@@ -2551,7 +2620,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KOCH MEMBRANE SYSTEM": {
         "vendorfullpath": "P:\\VENDORS\\K\\KOCH MEMBRANE SYSTEM",
         "vendorname": "KOCH MEMBRANE SYSTEM",
         "vendorpath": [
@@ -2562,7 +2631,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KOFLO": {
         "vendorfullpath": "P:\\VENDORS\\K\\KOFLO",
         "vendorname": "KOFLO",
         "vendorpath": [
@@ -2573,7 +2642,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KOMLINE SANDERSON": {
         "vendorfullpath": "P:\\VENDORS\\K\\KOMLINE SANDERSON",
         "vendorname": "KOMLINE SANDERSON",
         "vendorpath": [
@@ -2584,7 +2653,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KONTEK": {
         "vendorfullpath": "P:\\VENDORS\\K\\KONTEK",
         "vendorname": "KONTEK",
         "vendorpath": [
@@ -2595,7 +2664,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KROFTA DAF": {
         "vendorfullpath": "P:\\VENDORS\\K\\KROFTA DAF",
         "vendorname": "KROFTA DAF",
         "vendorpath": [
@@ -2606,7 +2675,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KS AUTOMATION": {
         "vendorfullpath": "P:\\VENDORS\\K\\KS AUTOMATION",
         "vendorname": "KS AUTOMATION",
         "vendorpath": [
@@ -2617,7 +2686,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "KWI": {
         "vendorfullpath": "P:\\VENDORS\\K\\KWI",
         "vendorname": "KWI",
         "vendorpath": [
@@ -2628,7 +2697,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LAKESIDE PROCESS CONTROLS LTD": {
         "vendorfullpath": "P:\\VENDORS\\L\\LAKESIDE PROCESS CONTROLS LTD",
         "vendorname": "LAKESIDE PROCESS CONTROLS LTD",
         "vendorpath": [
@@ -2637,9 +2706,12 @@
             "L",
             "LAKESIDE PROCESS CONTROLS LTD"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Rosemount",
+            "EMERSON"
+        ]
     },
-    {
+    "LAKOS SEPERATORS": {
         "vendorfullpath": "P:\\VENDORS\\L\\LAKOS SEPERATORS",
         "vendorname": "LAKOS SEPERATORS",
         "vendorpath": [
@@ -2650,7 +2722,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LANXESS": {
         "vendorfullpath": "P:\\VENDORS\\L\\LANXESS",
         "vendorname": "LANXESS",
         "vendorpath": [
@@ -2661,7 +2733,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LEESON": {
         "vendorfullpath": "P:\\VENDORS\\L\\LEESON",
         "vendorname": "LEESON",
         "vendorpath": [
@@ -2672,7 +2744,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LENZE": {
         "vendorfullpath": "P:\\VENDORS\\L\\LENZE",
         "vendorname": "LENZE",
         "vendorpath": [
@@ -2683,7 +2755,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LIGHTNIN": {
         "vendorfullpath": "P:\\VENDORS\\L\\LIGHTNIN",
         "vendorname": "LIGHTNIN",
         "vendorpath": [
@@ -2694,7 +2766,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LIQUI-CELL": {
         "vendorfullpath": "P:\\VENDORS\\L\\LIQUI-CELL",
         "vendorname": "LIQUI-CELL",
         "vendorpath": [
@@ -2705,7 +2777,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LMI": {
         "vendorfullpath": "P:\\VENDORS\\L\\LMI",
         "vendorname": "LMI",
         "vendorpath": [
@@ -2716,7 +2788,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LOVATO": {
         "vendorfullpath": "P:\\VENDORS\\L\\LOVATO",
         "vendorname": "LOVATO",
         "vendorpath": [
@@ -2727,7 +2799,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "LUMINOR": {
         "vendorfullpath": "P:\\VENDORS\\L\\LUMINOR",
         "vendorname": "LUMINOR",
         "vendorpath": [
@@ -2738,7 +2810,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MAGIC LITE LTD": {
         "vendorfullpath": "P:\\VENDORS\\M\\MAGIC LITE LTD",
         "vendorname": "MAGIC LITE LTD",
         "vendorpath": [
@@ -2749,7 +2821,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MAHONEY'S": {
         "vendorfullpath": "P:\\VENDORS\\M\\MAHONEY'S",
         "vendorname": "MAHONEY'S",
         "vendorpath": [
@@ -2760,7 +2832,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MAINWAY METALWORKS INC": {
         "vendorfullpath": "P:\\VENDORS\\M\\MAINWAY METALWORKS INC",
         "vendorname": "MAINWAY METALWORKS INC",
         "vendorpath": [
@@ -2771,7 +2843,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MANN + HUMMEL": {
         "vendorfullpath": "P:\\VENDORS\\M\\MANN + HUMMEL",
         "vendorname": "MANN + HUMMEL",
         "vendorpath": [
@@ -2782,7 +2854,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MAR COR": {
         "vendorfullpath": "P:\\VENDORS\\M\\MAR COR",
         "vendorname": "MAR COR",
         "vendorpath": [
@@ -2791,9 +2863,11 @@
             "M",
             "MAR COR"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "STILMAS AMERICAS INC"
+        ]
     },
-    {
+    "MARKS SUPPLY": {
         "vendorfullpath": "P:\\VENDORS\\M\\MARKS SUPPLY",
         "vendorname": "MARKS SUPPLY",
         "vendorpath": [
@@ -2804,7 +2878,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MATER-DYNE": {
         "vendorfullpath": "P:\\VENDORS\\M\\MATER-DYNE",
         "vendorname": "MATER-DYNE",
         "vendorpath": [
@@ -2815,7 +2889,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MCMASTER": {
         "vendorfullpath": "P:\\VENDORS\\M\\MCMASTER",
         "vendorname": "MCMASTER",
         "vendorpath": [
@@ -2826,7 +2900,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MCPHEE": {
         "vendorfullpath": "P:\\VENDORS\\M\\MCPHEE",
         "vendorname": "MCPHEE",
         "vendorpath": [
@@ -2837,7 +2911,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MEITLER": {
         "vendorfullpath": "P:\\VENDORS\\M\\MEITLER",
         "vendorname": "MEITLER",
         "vendorpath": [
@@ -2848,7 +2922,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MERIDIAN": {
         "vendorfullpath": "P:\\VENDORS\\M\\MERIDIAN",
         "vendorname": "MERIDIAN",
         "vendorpath": [
@@ -2859,7 +2933,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "METEX": {
         "vendorfullpath": "P:\\VENDORS\\M\\METEX",
         "vendorname": "METEX",
         "vendorpath": [
@@ -2870,7 +2944,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "METPRO CORPORATION": {
         "vendorfullpath": "P:\\VENDORS\\M\\METPRO CORPORATION",
         "vendorname": "METPRO CORPORATION",
         "vendorpath": [
@@ -2881,7 +2955,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "METROPOLITAN PUMP": {
         "vendorfullpath": "P:\\VENDORS\\M\\METROPOLITAN PUMP",
         "vendorname": "METROPOLITAN PUMP",
         "vendorpath": [
@@ -2892,7 +2966,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MGS FILTER PRODUCTS": {
         "vendorfullpath": "P:\\VENDORS\\M\\MGS FILTER PRODUCTS",
         "vendorname": "MGS FILTER PRODUCTS",
         "vendorpath": [
@@ -2903,7 +2977,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MICRODYNNADIR": {
         "vendorfullpath": "P:\\VENDORS\\M\\MICRODYNNADIR",
         "vendorname": "MICRODYNNADIR",
         "vendorpath": [
@@ -2914,7 +2988,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MICRONICS": {
         "vendorfullpath": "P:\\VENDORS\\M\\MICRONICS",
         "vendorname": "MICRONICS",
         "vendorpath": [
@@ -2925,7 +2999,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MILLIPORE UFILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\M\\MILLIPORE UFILTRATION",
         "vendorname": "MILLIPORE UFILTRATION",
         "vendorpath": [
@@ -2936,7 +3010,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MILLTRONICS": {
         "vendorfullpath": "P:\\VENDORS\\M\\MILLTRONICS",
         "vendorname": "MILLTRONICS",
         "vendorpath": [
@@ -2947,7 +3021,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MITSUBISHI": {
         "vendorfullpath": "P:\\VENDORS\\M\\MITSUBISHI",
         "vendorname": "MITSUBISHI",
         "vendorpath": [
@@ -2956,9 +3030,11 @@
             "M",
             "MITSUBISHI"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "ARROW SPEED CONTROLS"
+        ]
     },
-    {
+    "MMC": {
         "vendorfullpath": "P:\\VENDORS\\M\\MMC",
         "vendorname": "MMC",
         "vendorpath": [
@@ -2969,7 +3045,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MOELLER": {
         "vendorfullpath": "P:\\VENDORS\\M\\MOELLER",
         "vendorname": "MOELLER",
         "vendorpath": [
@@ -2980,7 +3056,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MONROE ENVIRONMENT": {
         "vendorfullpath": "P:\\VENDORS\\M\\MONROE ENVIRONMENT",
         "vendorname": "MONROE ENVIRONMENT",
         "vendorpath": [
@@ -2991,7 +3067,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MOONSTONE": {
         "vendorfullpath": "P:\\VENDORS\\M\\MOONSTONE",
         "vendorname": "MOONSTONE",
         "vendorpath": [
@@ -3002,7 +3078,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MOTION": {
         "vendorfullpath": "P:\\VENDORS\\M\\MOTION",
         "vendorname": "MOTION",
         "vendorpath": [
@@ -3013,7 +3089,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MOTOROLA SOLUTIONS": {
         "vendorfullpath": "P:\\VENDORS\\M\\MOTOROLA SOLUTIONS",
         "vendorname": "MOTOROLA SOLUTIONS",
         "vendorpath": [
@@ -3024,7 +3100,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MTE": {
         "vendorfullpath": "P:\\VENDORS\\M\\MTE",
         "vendorname": "MTE",
         "vendorpath": [
@@ -3035,7 +3111,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MURR ELEKTRONIK": {
         "vendorfullpath": "P:\\VENDORS\\M\\MURR ELEKTRONIK",
         "vendorname": "MURR ELEKTRONIK",
         "vendorpath": [
@@ -3046,7 +3122,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MW WATERMARK": {
         "vendorfullpath": "P:\\VENDORS\\M\\MW WATERMARK",
         "vendorname": "MW WATERMARK",
         "vendorpath": [
@@ -3057,7 +3133,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MYCELX": {
         "vendorfullpath": "P:\\VENDORS\\M\\MYCELX",
         "vendorname": "MYCELX",
         "vendorpath": [
@@ -3068,7 +3144,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "MYRON L": {
         "vendorfullpath": "P:\\VENDORS\\M\\MYRON L",
         "vendorname": "MYRON L",
         "vendorpath": [
@@ -3079,7 +3155,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "AESF Leads": {
         "vendorfullpath": "P:\\VENDORS\\MARKETING\\AESF Leads",
         "vendorname": "AESF Leads",
         "vendorpath": [
@@ -3090,7 +3166,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "IST Sample pictures": {
         "vendorfullpath": "P:\\VENDORS\\MARKETING\\IST Sample pictures",
         "vendorname": "IST Sample pictures",
         "vendorpath": [
@@ -3101,7 +3177,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "N-TRON": {
         "vendorfullpath": "P:\\VENDORS\\N\\N-TRON",
         "vendorname": "N-TRON",
         "vendorpath": [
@@ -3112,7 +3188,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NALCO": {
         "vendorfullpath": "P:\\VENDORS\\N\\NALCO",
         "vendorname": "NALCO",
         "vendorpath": [
@@ -3123,7 +3199,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NEOTERIC ENTERPRISES": {
         "vendorfullpath": "P:\\VENDORS\\N\\NEOTERIC ENTERPRISES",
         "vendorname": "NEOTERIC ENTERPRISES",
         "vendorpath": [
@@ -3134,7 +3210,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NEPTUNE POLYMASTER": {
         "vendorfullpath": "P:\\VENDORS\\N\\NEPTUNE POLYMASTER",
         "vendorname": "NEPTUNE POLYMASTER",
         "vendorpath": [
@@ -3145,7 +3221,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NEWTERRA (EPRO)": {
         "vendorfullpath": "P:\\VENDORS\\N\\NEWTERRA (EPRO)",
         "vendorname": "NEWTERRA (EPRO)",
         "vendorpath": [
@@ -3156,7 +3232,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NORWESCO": {
         "vendorfullpath": "P:\\VENDORS\\N\\NORWESCO",
         "vendorname": "NORWESCO",
         "vendorpath": [
@@ -3167,7 +3243,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NORWESCO TANKS": {
         "vendorfullpath": "P:\\VENDORS\\N\\NORWESCO TANKS",
         "vendorname": "NORWESCO TANKS",
         "vendorpath": [
@@ -3178,7 +3254,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NOVA INDUSTRIAL PLASTICS INC": {
         "vendorfullpath": "P:\\VENDORS\\N\\NOVA INDUSTRIAL PLASTICS INC",
         "vendorname": "NOVA INDUSTRIAL PLASTICS INC",
         "vendorpath": [
@@ -3189,7 +3265,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NOVA-TECH": {
         "vendorfullpath": "P:\\VENDORS\\N\\NOVA-TECH",
         "vendorname": "NOVA-TECH",
         "vendorpath": [
@@ -3200,7 +3276,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NUMATICS": {
         "vendorfullpath": "P:\\VENDORS\\N\\NUMATICS",
         "vendorname": "NUMATICS",
         "vendorpath": [
@@ -3211,7 +3287,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "NX FILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\N\\NX FILTRATION",
         "vendorname": "NX FILTRATION",
         "vendorpath": [
@@ -3222,7 +3298,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OAKVILLE STAINLESS": {
         "vendorfullpath": "P:\\VENDORS\\O\\OAKVILLE STAINLESS",
         "vendorname": "OAKVILLE STAINLESS",
         "vendorpath": [
@@ -3233,7 +3309,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OBERLIN": {
         "vendorfullpath": "P:\\VENDORS\\O\\OBERLIN",
         "vendorname": "OBERLIN",
         "vendorpath": [
@@ -3244,7 +3320,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OIC": {
         "vendorfullpath": "P:\\VENDORS\\O\\OIC",
         "vendorname": "OIC",
         "vendorpath": [
@@ -3255,7 +3331,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OMB VALVE": {
         "vendorfullpath": "P:\\VENDORS\\O\\OMB VALVE",
         "vendorname": "OMB VALVE",
         "vendorpath": [
@@ -3266,7 +3342,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OMEGA": {
         "vendorfullpath": "P:\\VENDORS\\O\\OMEGA",
         "vendorname": "OMEGA",
         "vendorpath": [
@@ -3277,7 +3353,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "OMRON": {
         "vendorfullpath": "P:\\VENDORS\\O\\OMRON",
         "vendorname": "OMRON",
         "vendorpath": [
@@ -3288,7 +3364,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ONEPOWER": {
         "vendorfullpath": "P:\\VENDORS\\O\\ONEPOWER",
         "vendorname": "ONEPOWER",
         "vendorpath": [
@@ -3299,7 +3375,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PACIFIC PRESS": {
         "vendorfullpath": "P:\\VENDORS\\P\\PACIFIC PRESS",
         "vendorname": "PACIFIC PRESS",
         "vendorpath": [
@@ -3310,7 +3386,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PALL": {
         "vendorfullpath": "P:\\VENDORS\\P\\PALL",
         "vendorname": "PALL",
         "vendorpath": [
@@ -3321,7 +3397,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PALM": {
         "vendorfullpath": "P:\\VENDORS\\P\\PALM",
         "vendorname": "PALM",
         "vendorpath": [
@@ -3332,7 +3408,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PAN AMERICA": {
         "vendorfullpath": "P:\\VENDORS\\P\\PAN AMERICA",
         "vendorname": "PAN AMERICA",
         "vendorpath": [
@@ -3343,7 +3419,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PANDUIT": {
         "vendorfullpath": "P:\\VENDORS\\P\\PANDUIT",
         "vendorname": "PANDUIT",
         "vendorpath": [
@@ -3354,7 +3430,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PARKER": {
         "vendorfullpath": "P:\\VENDORS\\P\\PARKER",
         "vendorname": "PARKER",
         "vendorpath": [
@@ -3365,7 +3441,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PARKER INDUSTRIAL BOILER": {
         "vendorfullpath": "P:\\VENDORS\\P\\PARKER INDUSTRIAL BOILER",
         "vendorname": "PARKER INDUSTRIAL BOILER",
         "vendorpath": [
@@ -3376,7 +3452,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PARTLOW": {
         "vendorfullpath": "P:\\VENDORS\\P\\PARTLOW",
         "vendorname": "PARTLOW",
         "vendorpath": [
@@ -3385,9 +3461,11 @@
             "P",
             "PARTLOW"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "CARREM CONTROLS"
+        ]
     },
-    {
+    "PASS AND SEYMOUR": {
         "vendorfullpath": "P:\\VENDORS\\P\\PASS AND SEYMOUR",
         "vendorname": "PASS AND SEYMOUR",
         "vendorpath": [
@@ -3398,7 +3476,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PAVCO": {
         "vendorfullpath": "P:\\VENDORS\\P\\PAVCO",
         "vendorname": "PAVCO",
         "vendorpath": [
@@ -3409,7 +3487,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PEERLESS BLOWERS": {
         "vendorfullpath": "P:\\VENDORS\\P\\PEERLESS BLOWERS",
         "vendorname": "PEERLESS BLOWERS",
         "vendorpath": [
@@ -3420,7 +3498,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PENTAIR": {
         "vendorfullpath": "P:\\VENDORS\\P\\PENTAIR",
         "vendorname": "PENTAIR",
         "vendorpath": [
@@ -3431,7 +3509,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PFANNENBERG": {
         "vendorfullpath": "P:\\VENDORS\\P\\PFANNENBERG",
         "vendorname": "PFANNENBERG",
         "vendorpath": [
@@ -3442,7 +3520,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PHOENIX CONTACT": {
         "vendorfullpath": "P:\\VENDORS\\P\\PHOENIX CONTACT",
         "vendorname": "PHOENIX CONTACT",
         "vendorpath": [
@@ -3453,7 +3531,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PIECO": {
         "vendorfullpath": "P:\\VENDORS\\P\\PIECO",
         "vendorname": "PIECO",
         "vendorpath": [
@@ -3464,7 +3542,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PIERALISI": {
         "vendorfullpath": "P:\\VENDORS\\P\\PIERALISI",
         "vendorname": "PIERALISI",
         "vendorpath": [
@@ -3475,7 +3553,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PINACLE": {
         "vendorfullpath": "P:\\VENDORS\\P\\PINACLE",
         "vendorname": "PINACLE",
         "vendorpath": [
@@ -3486,7 +3564,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PIZZATO": {
         "vendorfullpath": "P:\\VENDORS\\P\\PIZZATO",
         "vendorname": "PIZZATO",
         "vendorpath": [
@@ -3497,7 +3575,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PLAS-TANKS - BRYNEER": {
         "vendorfullpath": "P:\\VENDORS\\P\\PLAS-TANKS - BRYNEER",
         "vendorname": "PLAS-TANKS - BRYNEER",
         "vendorpath": [
@@ -3508,7 +3586,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PLASCO TANKS PIPE AND FITTINGS": {
         "vendorfullpath": "P:\\VENDORS\\P\\PLASCO TANKS PIPE AND FITTINGS",
         "vendorname": "PLASCO TANKS PIPE AND FITTINGS",
         "vendorpath": [
@@ -3519,7 +3597,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PLAST-O-MATIC VALVES, INC": {
         "vendorfullpath": "P:\\VENDORS\\P\\PLAST-O-MATIC VALVES, INC",
         "vendorname": "PLAST-O-MATIC VALVES, INC",
         "vendorpath": [
@@ -3528,9 +3606,11 @@
             "P",
             "PLAST-O-MATIC VALVES, INC"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "CONVAL EQUIPMENT LTD"
+        ]
     },
-    {
+    "PLASTIC TANKS": {
         "vendorfullpath": "P:\\VENDORS\\P\\PLASTIC TANKS",
         "vendorname": "PLASTIC TANKS",
         "vendorpath": [
@@ -3541,7 +3621,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "POLY PROCESSING": {
         "vendorfullpath": "P:\\VENDORS\\P\\POLY PROCESSING",
         "vendorname": "POLY PROCESSING",
         "vendorpath": [
@@ -3552,7 +3632,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "POREX": {
         "vendorfullpath": "P:\\VENDORS\\P\\POREX",
         "vendorname": "POREX",
         "vendorpath": [
@@ -3563,7 +3643,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "POREX FILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\P\\POREX FILTRATION",
         "vendorname": "POREX FILTRATION",
         "vendorpath": [
@@ -3574,7 +3654,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "POWER FLEX": {
         "vendorfullpath": "P:\\VENDORS\\P\\POWER FLEX",
         "vendorname": "POWER FLEX",
         "vendorpath": [
@@ -3585,7 +3665,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "POWER TEAM": {
         "vendorfullpath": "P:\\VENDORS\\P\\POWER TEAM",
         "vendorname": "POWER TEAM",
         "vendorpath": [
@@ -3596,7 +3676,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PRECISIONEERING": {
         "vendorfullpath": "P:\\VENDORS\\P\\PRECISIONEERING",
         "vendorname": "PRECISIONEERING",
         "vendorpath": [
@@ -3607,7 +3687,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PRIMARY FLUID METERING PUMP PULSATION TANK": {
         "vendorfullpath": "P:\\VENDORS\\P\\PRIMARY FLUID METERING PUMP PULSATION TANK",
         "vendorname": "PRIMARY FLUID METERING PUMP PULSATION TANK",
         "vendorpath": [
@@ -3618,7 +3698,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROCESS & STEAM SPECIALTIES": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROCESS & STEAM SPECIALTIES",
         "vendorname": "PROCESS & STEAM SPECIALTIES",
         "vendorpath": [
@@ -3627,9 +3707,11 @@
             "P",
             "PROCESS & STEAM SPECIALTIES"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Xylem"
+        ]
     },
-    {
+    "PROCESS TECHNOLOGIES": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROCESS TECHNOLOGIES",
         "vendorname": "PROCESS TECHNOLOGIES",
         "vendorpath": [
@@ -3640,7 +3722,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROCO (EXPANSION JOINTS)": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROCO (EXPANSION JOINTS)",
         "vendorname": "PROCO (EXPANSION JOINTS)",
         "vendorpath": [
@@ -3651,7 +3733,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROMINENT": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROMINENT",
         "vendorname": "PROMINENT",
         "vendorpath": [
@@ -3662,7 +3744,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROSOFT": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROSOFT",
         "vendorname": "PROSOFT",
         "vendorpath": [
@@ -3673,7 +3755,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROSPEC (PERFECTA PUMPS)": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROSPEC (PERFECTA PUMPS)",
         "vendorname": "PROSPEC (PERFECTA PUMPS)",
         "vendorpath": [
@@ -3684,7 +3766,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PROSYSCO": {
         "vendorfullpath": "P:\\VENDORS\\P\\PROSYSCO",
         "vendorname": "PROSYSCO",
         "vendorpath": [
@@ -3695,7 +3777,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PSR INC": {
         "vendorfullpath": "P:\\VENDORS\\P\\PSR INC",
         "vendorname": "PSR INC",
         "vendorpath": [
@@ -3706,7 +3788,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PURE FILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\P\\PURE FILTRATION",
         "vendorname": "PURE FILTRATION",
         "vendorpath": [
@@ -3717,7 +3799,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PUROLITE": {
         "vendorfullpath": "P:\\VENDORS\\P\\PUROLITE",
         "vendorname": "PUROLITE",
         "vendorpath": [
@@ -3728,7 +3810,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "PVS BENSON": {
         "vendorfullpath": "P:\\VENDORS\\P\\PVS BENSON",
         "vendorname": "PVS BENSON",
         "vendorpath": [
@@ -3739,7 +3821,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "QPS": {
         "vendorfullpath": "P:\\VENDORS\\Q\\QPS",
         "vendorname": "QPS",
         "vendorpath": [
@@ -3750,7 +3832,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "QUICK TANKS": {
         "vendorfullpath": "P:\\VENDORS\\Q\\QUICK TANKS",
         "vendorname": "QUICK TANKS",
         "vendorpath": [
@@ -3761,7 +3843,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "R&D SPECIALTIES": {
         "vendorfullpath": "P:\\VENDORS\\R\\R&D SPECIALTIES",
         "vendorname": "R&D SPECIALTIES",
         "vendorpath": [
@@ -3772,7 +3854,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RALSTON": {
         "vendorfullpath": "P:\\VENDORS\\R\\RALSTON",
         "vendorname": "RALSTON",
         "vendorpath": [
@@ -3783,7 +3865,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RCL TECHINCAL SOLUTIONS": {
         "vendorfullpath": "P:\\VENDORS\\R\\RCL TECHINCAL SOLUTIONS",
         "vendorname": "RCL TECHINCAL SOLUTIONS",
         "vendorpath": [
@@ -3794,7 +3876,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RED LION": {
         "vendorfullpath": "P:\\VENDORS\\R\\RED LION",
         "vendorname": "RED LION",
         "vendorpath": [
@@ -3805,7 +3887,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "REED (HYDROSTATIC TEST PUMP)": {
         "vendorfullpath": "P:\\VENDORS\\R\\REED (HYDROSTATIC TEST PUMP)",
         "vendorname": "REED (HYDROSTATIC TEST PUMP)",
         "vendorpath": [
@@ -3816,7 +3898,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "REGEN": {
         "vendorfullpath": "P:\\VENDORS\\R\\REGEN",
         "vendorname": "REGEN",
         "vendorpath": [
@@ -3827,7 +3909,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "REGENERATION SERVICES": {
         "vendorfullpath": "P:\\VENDORS\\R\\REGENERATION SERVICES",
         "vendorname": "REGENERATION SERVICES",
         "vendorpath": [
@@ -3838,7 +3920,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RESIN TECH INC": {
         "vendorfullpath": "P:\\VENDORS\\R\\RESIN TECH INC",
         "vendorname": "RESIN TECH INC",
         "vendorpath": [
@@ -3849,7 +3931,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "REX": {
         "vendorfullpath": "P:\\VENDORS\\R\\REX",
         "vendorname": "REX",
         "vendorpath": [
@@ -3860,7 +3942,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RG SPEED": {
         "vendorfullpath": "P:\\VENDORS\\R\\RG SPEED",
         "vendorname": "RG SPEED",
         "vendorpath": [
@@ -3871,7 +3953,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RINGBALL": {
         "vendorfullpath": "P:\\VENDORS\\R\\RINGBALL",
         "vendorname": "RINGBALL",
         "vendorpath": [
@@ -3882,7 +3964,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RITTAL": {
         "vendorfullpath": "P:\\VENDORS\\R\\RITTAL",
         "vendorname": "RITTAL",
         "vendorpath": [
@@ -3893,7 +3975,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROCKWELL": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROCKWELL",
         "vendorname": "ROCKWELL",
         "vendorpath": [
@@ -3902,9 +3984,11 @@
             "R",
             "ROCKWELL"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Allen Bradley"
+        ]
     },
-    {
+    "ROLARK": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROLARK",
         "vendorname": "ROLARK",
         "vendorpath": [
@@ -3915,7 +3999,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROLLED ALLOYS": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROLLED ALLOYS",
         "vendorname": "ROLLED ALLOYS",
         "vendorpath": [
@@ -3926,7 +4010,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROOTS": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROOTS",
         "vendorname": "ROOTS",
         "vendorpath": [
@@ -3937,7 +4021,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROSELEIN": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROSELEIN",
         "vendorname": "ROSELEIN",
         "vendorpath": [
@@ -3948,7 +4032,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROSEMOUNT": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROSEMOUNT",
         "vendorname": "ROSEMOUNT",
         "vendorpath": [
@@ -3957,9 +4041,12 @@
             "R",
             "ROSEMOUNT"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "EMERSON"
+        ]
     },
-    {
+    "ROTECH": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROTECH",
         "vendorname": "ROTECH",
         "vendorpath": [
@@ -3970,7 +4057,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ROYAL": {
         "vendorfullpath": "P:\\VENDORS\\R\\ROYAL",
         "vendorname": "ROYAL",
         "vendorpath": [
@@ -3981,7 +4068,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RTS PLASTICS": {
         "vendorfullpath": "P:\\VENDORS\\R\\RTS PLASTICS",
         "vendorname": "RTS PLASTICS",
         "vendorpath": [
@@ -3992,7 +4079,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RUDI KOVACKO": {
         "vendorfullpath": "P:\\VENDORS\\R\\RUDI KOVACKO",
         "vendorname": "RUDI KOVACKO",
         "vendorpath": [
@@ -4003,7 +4090,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RUNNALLS": {
         "vendorfullpath": "P:\\VENDORS\\R\\RUNNALLS",
         "vendorname": "RUNNALLS",
         "vendorpath": [
@@ -4014,7 +4101,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "RW HAMILTON": {
         "vendorfullpath": "P:\\VENDORS\\R\\RW HAMILTON",
         "vendorname": "RW HAMILTON",
         "vendorpath": [
@@ -4025,7 +4112,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SAFE WATER TECHNOLOGIES": {
         "vendorfullpath": "P:\\VENDORS\\S\\SAFE WATER TECHNOLOGIES",
         "vendorname": "SAFE WATER TECHNOLOGIES",
         "vendorpath": [
@@ -4036,7 +4123,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SAGINAW CONTROL": {
         "vendorfullpath": "P:\\VENDORS\\S\\SAGINAW CONTROL",
         "vendorname": "SAGINAW CONTROL",
         "vendorpath": [
@@ -4047,7 +4134,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SAK DATA": {
         "vendorfullpath": "P:\\VENDORS\\S\\SAK DATA",
         "vendorname": "SAK DATA",
         "vendorpath": [
@@ -4058,7 +4145,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SAYAL": {
         "vendorfullpath": "P:\\VENDORS\\S\\SAYAL",
         "vendorname": "SAYAL",
         "vendorpath": [
@@ -4069,7 +4156,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SB SIMPSON": {
         "vendorfullpath": "P:\\VENDORS\\S\\SB SIMPSON",
         "vendorname": "SB SIMPSON",
         "vendorpath": [
@@ -4080,7 +4167,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SCHNEIDER": {
         "vendorfullpath": "P:\\VENDORS\\S\\SCHNEIDER",
         "vendorname": "SCHNEIDER",
         "vendorpath": [
@@ -4091,7 +4178,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SEKO": {
         "vendorfullpath": "P:\\VENDORS\\S\\SEKO",
         "vendorname": "SEKO",
         "vendorpath": [
@@ -4102,7 +4189,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SELECTIVE ADSORPTION ASSOCIATES": {
         "vendorfullpath": "P:\\VENDORS\\S\\SELECTIVE ADSORPTION ASSOCIATES",
         "vendorname": "SELECTIVE ADSORPTION ASSOCIATES",
         "vendorpath": [
@@ -4113,7 +4200,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SENSOREX": {
         "vendorfullpath": "P:\\VENDORS\\S\\SENSOREX",
         "vendorname": "SENSOREX",
         "vendorpath": [
@@ -4124,7 +4211,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SERFILCO": {
         "vendorfullpath": "P:\\VENDORS\\S\\SERFILCO",
         "vendorname": "SERFILCO",
         "vendorpath": [
@@ -4133,9 +4220,11 @@
             "S",
             "SERFILCO"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "SERVICE FILTRATION"
+        ]
     },
-    {
+    "SERVICE FILTRATION": {
         "vendorfullpath": "P:\\VENDORS\\S\\SERVICE FILTRATION",
         "vendorname": "SERVICE FILTRATION",
         "vendorpath": [
@@ -4146,7 +4235,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SEW": {
         "vendorfullpath": "P:\\VENDORS\\S\\SEW",
         "vendorname": "SEW",
         "vendorpath": [
@@ -4157,7 +4246,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SEW EURODRIVE": {
         "vendorfullpath": "P:\\VENDORS\\S\\SEW EURODRIVE",
         "vendorname": "SEW EURODRIVE",
         "vendorpath": [
@@ -4168,7 +4257,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SHELCO FILTERS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SHELCO FILTERS",
         "vendorname": "SHELCO FILTERS",
         "vendorpath": [
@@ -4179,7 +4268,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SHELLEY": {
         "vendorfullpath": "P:\\VENDORS\\S\\SHELLEY",
         "vendorname": "SHELLEY",
         "vendorpath": [
@@ -4190,7 +4279,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SHERWIN-WILLIAMS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SHERWIN-WILLIAMS",
         "vendorname": "SHERWIN-WILLIAMS",
         "vendorpath": [
@@ -4201,7 +4290,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SIEMENS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SIEMENS",
         "vendorname": "SIEMENS",
         "vendorpath": [
@@ -4212,7 +4301,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SIGMA COMPONENT": {
         "vendorfullpath": "P:\\VENDORS\\S\\SIGMA COMPONENT",
         "vendorname": "SIGMA COMPONENT",
         "vendorpath": [
@@ -4223,7 +4312,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SIGNET": {
         "vendorfullpath": "P:\\VENDORS\\S\\SIGNET",
         "vendorname": "SIGNET",
         "vendorpath": [
@@ -4232,9 +4321,11 @@
             "S",
             "SIGNET"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "GEORGE FISCHER PIPING SYSTEMS"
+        ]
     },
-    {
+    "SILVA": {
         "vendorfullpath": "P:\\VENDORS\\S\\SILVA",
         "vendorname": "SILVA",
         "vendorpath": [
@@ -4245,7 +4336,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SNORKEL -TANK-PIPE": {
         "vendorfullpath": "P:\\VENDORS\\S\\SNORKEL -TANK-PIPE",
         "vendorname": "SNORKEL -TANK-PIPE",
         "vendorpath": [
@@ -4256,7 +4347,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SNOW PURE": {
         "vendorfullpath": "P:\\VENDORS\\S\\SNOW PURE",
         "vendorname": "SNOW PURE",
         "vendorpath": [
@@ -4267,7 +4358,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SNYDER TANKS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SNYDER TANKS",
         "vendorname": "SNYDER TANKS",
         "vendorpath": [
@@ -4278,7 +4369,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SPARK POWER": {
         "vendorfullpath": "P:\\VENDORS\\S\\SPARK POWER",
         "vendorname": "SPARK POWER",
         "vendorpath": [
@@ -4289,7 +4380,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SPARTAN SACCO": {
         "vendorfullpath": "P:\\VENDORS\\S\\SPARTAN SACCO",
         "vendorname": "SPARTAN SACCO",
         "vendorpath": [
@@ -4300,7 +4391,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SPEARS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SPEARS",
         "vendorname": "SPEARS",
         "vendorpath": [
@@ -4311,7 +4402,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SPIRAX SARCO": {
         "vendorfullpath": "P:\\VENDORS\\S\\SPIRAX SARCO",
         "vendorname": "SPIRAX SARCO",
         "vendorpath": [
@@ -4322,7 +4413,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SPX FLOW": {
         "vendorfullpath": "P:\\VENDORS\\S\\SPX FLOW",
         "vendorname": "SPX FLOW",
         "vendorpath": [
@@ -4333,7 +4424,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "STILMAS AMERICAS INC": {
         "vendorfullpath": "P:\\VENDORS\\S\\STILMAS AMERICAS INC",
         "vendorname": "STILMAS AMERICAS INC",
         "vendorpath": [
@@ -4344,7 +4435,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "STRUCTURAL COMPOSITE VESSELS": {
         "vendorfullpath": "P:\\VENDORS\\S\\STRUCTURAL COMPOSITE VESSELS",
         "vendorname": "STRUCTURAL COMPOSITE VESSELS",
         "vendorpath": [
@@ -4355,7 +4446,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SUMMIT": {
         "vendorfullpath": "P:\\VENDORS\\S\\SUMMIT",
         "vendorname": "SUMMIT",
         "vendorpath": [
@@ -4366,7 +4457,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SWECO": {
         "vendorfullpath": "P:\\VENDORS\\S\\SWECO",
         "vendorname": "SWECO",
         "vendorpath": [
@@ -4377,7 +4468,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "SYSTEMATICS": {
         "vendorfullpath": "P:\\VENDORS\\S\\SYSTEMATICS",
         "vendorname": "SYSTEMATICS",
         "vendorpath": [
@@ -4388,7 +4479,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TANK MASTER UV": {
         "vendorfullpath": "P:\\VENDORS\\T\\TANK MASTER UV",
         "vendorname": "TANK MASTER UV",
         "vendorpath": [
@@ -4399,7 +4490,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TD ROOKE": {
         "vendorfullpath": "P:\\VENDORS\\T\\TD ROOKE",
         "vendorname": "TD ROOKE",
         "vendorpath": [
@@ -4410,7 +4501,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TECOUSTICS": {
         "vendorfullpath": "P:\\VENDORS\\T\\TECOUSTICS",
         "vendorname": "TECOUSTICS",
         "vendorpath": [
@@ -4421,7 +4512,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TENCO HYDRO": {
         "vendorfullpath": "P:\\VENDORS\\T\\TENCO HYDRO",
         "vendorname": "TENCO HYDRO",
         "vendorpath": [
@@ -4432,7 +4523,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TEXCAN (SESCO)": {
         "vendorfullpath": "P:\\VENDORS\\T\\TEXCAN (SESCO)",
         "vendorname": "TEXCAN (SESCO)",
         "vendorpath": [
@@ -4443,7 +4534,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "THERMAL EDGE INC": {
         "vendorfullpath": "P:\\VENDORS\\T\\THERMAL EDGE INC",
         "vendorname": "THERMAL EDGE INC",
         "vendorpath": [
@@ -4454,7 +4545,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "THERMODYNE ENGINEERING": {
         "vendorfullpath": "P:\\VENDORS\\T\\THERMODYNE ENGINEERING",
         "vendorname": "THERMODYNE ENGINEERING",
         "vendorpath": [
@@ -4465,7 +4556,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "THORA": {
         "vendorfullpath": "P:\\VENDORS\\T\\THORA",
         "vendorname": "THORA",
         "vendorpath": [
@@ -4476,7 +4567,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "THORONTON": {
         "vendorfullpath": "P:\\VENDORS\\T\\THORONTON",
         "vendorname": "THORONTON",
         "vendorpath": [
@@ -4487,7 +4578,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TN WELDING": {
         "vendorfullpath": "P:\\VENDORS\\T\\TN WELDING",
         "vendorname": "TN WELDING",
         "vendorpath": [
@@ -4498,7 +4589,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TORAY INDUSTRIES": {
         "vendorfullpath": "P:\\VENDORS\\T\\TORAY INDUSTRIES",
         "vendorname": "TORAY INDUSTRIES",
         "vendorpath": [
@@ -4509,7 +4600,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TORO - EUROPE TANKS": {
         "vendorfullpath": "P:\\VENDORS\\T\\TORO - EUROPE TANKS",
         "vendorname": "TORO - EUROPE TANKS",
         "vendorpath": [
@@ -4520,7 +4611,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TOSLA": {
         "vendorfullpath": "P:\\VENDORS\\T\\TOSLA",
         "vendorname": "TOSLA",
         "vendorpath": [
@@ -4531,7 +4622,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TRANTER": {
         "vendorfullpath": "P:\\VENDORS\\T\\TRANTER",
         "vendorname": "TRANTER",
         "vendorpath": [
@@ -4542,7 +4633,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TRD": {
         "vendorfullpath": "P:\\VENDORS\\T\\TRD",
         "vendorname": "TRD",
         "vendorpath": [
@@ -4553,7 +4644,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TRD CYLINDER": {
         "vendorfullpath": "P:\\VENDORS\\T\\TRD CYLINDER",
         "vendorname": "TRD CYLINDER",
         "vendorpath": [
@@ -4564,7 +4655,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TRISEP": {
         "vendorfullpath": "P:\\VENDORS\\T\\TRISEP",
         "vendorname": "TRISEP",
         "vendorpath": [
@@ -4573,9 +4664,11 @@
             "T",
             "TRISEP"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "_12b979cb.exe"
+        ]
     },
-    {
+    "TROJAN": {
         "vendorfullpath": "P:\\VENDORS\\T\\TROJAN",
         "vendorname": "TROJAN",
         "vendorpath": [
@@ -4586,7 +4679,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TROJAN (VIQUA)": {
         "vendorfullpath": "P:\\VENDORS\\T\\TROJAN (VIQUA)",
         "vendorname": "TROJAN (VIQUA)",
         "vendorpath": [
@@ -4597,7 +4690,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "TULSAR": {
         "vendorfullpath": "P:\\VENDORS\\T\\TULSAR",
         "vendorname": "TULSAR",
         "vendorpath": [
@@ -4608,7 +4701,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "UNIFIED ALLOYS": {
         "vendorfullpath": "P:\\VENDORS\\U\\UNIFIED ALLOYS",
         "vendorname": "UNIFIED ALLOYS",
         "vendorpath": [
@@ -4619,7 +4712,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "UNITED ELECTRIC": {
         "vendorfullpath": "P:\\VENDORS\\U\\UNITED ELECTRIC",
         "vendorname": "UNITED ELECTRIC",
         "vendorpath": [
@@ -4630,7 +4723,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "UNIVERSAL TANK": {
         "vendorfullpath": "P:\\VENDORS\\U\\UNIVERSAL TANK",
         "vendorname": "UNIVERSAL TANK",
         "vendorpath": [
@@ -4641,7 +4734,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "UV DYNAMICS": {
         "vendorfullpath": "P:\\VENDORS\\U\\UV DYNAMICS",
         "vendorname": "UV DYNAMICS",
         "vendorpath": [
@@ -4652,7 +4745,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "UV PURE": {
         "vendorfullpath": "P:\\VENDORS\\U\\UV PURE",
         "vendorname": "UV PURE",
         "vendorpath": [
@@ -4663,7 +4756,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "V-NOTCH": {
         "vendorfullpath": "P:\\VENDORS\\V\\V-NOTCH",
         "vendorname": "V-NOTCH",
         "vendorpath": [
@@ -4674,7 +4767,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VERBATIM": {
         "vendorfullpath": "P:\\VENDORS\\V\\VERBATIM",
         "vendorname": "VERBATIM",
         "vendorpath": [
@@ -4685,7 +4778,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VERDER PUMP": {
         "vendorfullpath": "P:\\VENDORS\\V\\VERDER PUMP",
         "vendorname": "VERDER PUMP",
         "vendorpath": [
@@ -4696,7 +4789,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VICTAULIC": {
         "vendorfullpath": "P:\\VENDORS\\V\\VICTAULIC",
         "vendorname": "VICTAULIC",
         "vendorpath": [
@@ -4707,7 +4800,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VIRON": {
         "vendorfullpath": "P:\\VENDORS\\V\\VIRON",
         "vendorname": "VIRON",
         "vendorpath": [
@@ -4718,7 +4811,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VISSERS": {
         "vendorfullpath": "P:\\VENDORS\\V\\VISSERS",
         "vendorname": "VISSERS",
         "vendorpath": [
@@ -4729,7 +4822,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VORTEX VENTURES": {
         "vendorfullpath": "P:\\VENDORS\\V\\VORTEX VENTURES",
         "vendorname": "VORTEX VENTURES",
         "vendorpath": [
@@ -4740,7 +4833,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "VYTAL": {
         "vendorfullpath": "P:\\VENDORS\\V\\VYTAL",
         "vendorname": "VYTAL",
         "vendorpath": [
@@ -4751,7 +4844,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATER & WASTEWASTER": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATER & WASTEWASTER",
         "vendorname": "WATER & WASTEWASTER",
         "vendorpath": [
@@ -4762,7 +4855,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATER LEAK DETECTOR": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATER LEAK DETECTOR",
         "vendorname": "WATER LEAK DETECTOR",
         "vendorpath": [
@@ -4773,7 +4866,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATER TECH": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATER TECH",
         "vendorname": "WATER TECH",
         "vendorpath": [
@@ -4784,7 +4877,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATERCO": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATERCO",
         "vendorname": "WATERCO",
         "vendorpath": [
@@ -4795,7 +4888,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATERITE": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATERITE",
         "vendorname": "WATERITE",
         "vendorpath": [
@@ -4806,7 +4899,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATEROPOLIS": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATEROPOLIS",
         "vendorname": "WATEROPOLIS",
         "vendorpath": [
@@ -4817,7 +4910,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WATLOW": {
         "vendorfullpath": "P:\\VENDORS\\W\\WATLOW",
         "vendorname": "WATLOW",
         "vendorpath": [
@@ -4828,7 +4921,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WEBER": {
         "vendorfullpath": "P:\\VENDORS\\W\\WEBER",
         "vendorname": "WEBER",
         "vendorpath": [
@@ -4839,7 +4932,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WEIDMULLER": {
         "vendorfullpath": "P:\\VENDORS\\W\\WEIDMULLER",
         "vendorname": "WEIDMULLER",
         "vendorpath": [
@@ -4850,7 +4943,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WESCO": {
         "vendorfullpath": "P:\\VENDORS\\W\\WESCO",
         "vendorname": "WESCO",
         "vendorpath": [
@@ -4861,7 +4954,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WESTLUND": {
         "vendorfullpath": "P:\\VENDORS\\W\\WESTLUND",
         "vendorname": "WESTLUND",
         "vendorpath": [
@@ -4872,7 +4965,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WIKA": {
         "vendorfullpath": "P:\\VENDORS\\W\\WIKA",
         "vendorname": "WIKA",
         "vendorpath": [
@@ -4883,7 +4976,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WIKA INSTRUMENTS": {
         "vendorfullpath": "P:\\VENDORS\\W\\WIKA INSTRUMENTS",
         "vendorname": "WIKA INSTRUMENTS",
         "vendorpath": [
@@ -4894,7 +4987,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WILDEN": {
         "vendorfullpath": "P:\\VENDORS\\W\\WILDEN",
         "vendorname": "WILDEN",
         "vendorpath": [
@@ -4905,7 +4998,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WILSON": {
         "vendorfullpath": "P:\\VENDORS\\W\\WILSON",
         "vendorname": "WILSON",
         "vendorpath": [
@@ -4916,7 +5009,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WITT": {
         "vendorfullpath": "P:\\VENDORS\\W\\WITT",
         "vendorname": "WITT",
         "vendorpath": [
@@ -4927,7 +5020,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WITT LINING": {
         "vendorfullpath": "P:\\VENDORS\\W\\WITT LINING",
         "vendorname": "WITT LINING",
         "vendorpath": [
@@ -4938,7 +5031,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "WOLSELEY": {
         "vendorfullpath": "P:\\VENDORS\\W\\WOLSELEY",
         "vendorname": "WOLSELEY",
         "vendorpath": [
@@ -4949,7 +5042,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "XYLEM": {
         "vendorfullpath": "P:\\VENDORS\\X\\XYLEM",
         "vendorname": "XYLEM",
         "vendorpath": [
@@ -4958,9 +5051,11 @@
             "X",
             "XYLEM"
         ],
-        "alternatenames": []
+        "alternatenames": [
+            "Process & Steam Specialties"
+        ]
     },
-    {
+    "YAMADA": {
         "vendorfullpath": "P:\\VENDORS\\Y\\YAMADA",
         "vendorname": "YAMADA",
         "vendorpath": [
@@ -4971,7 +5066,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "YASKAWA": {
         "vendorfullpath": "P:\\VENDORS\\Y\\YASKAWA",
         "vendorname": "YASKAWA",
         "vendorpath": [
@@ -4982,7 +5077,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "YOKOGAWA": {
         "vendorfullpath": "P:\\VENDORS\\Y\\YOKOGAWA",
         "vendorname": "YOKOGAWA",
         "vendorpath": [
@@ -4993,7 +5088,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "Z-TRAUQ": {
         "vendorfullpath": "P:\\VENDORS\\Z\\Z-TRAUQ",
         "vendorname": "Z-TRAUQ",
         "vendorpath": [
@@ -5004,7 +5099,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ZELUS": {
         "vendorfullpath": "P:\\VENDORS\\Z\\ZELUS",
         "vendorname": "ZELUS",
         "vendorpath": [
@@ -5015,7 +5110,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ZESTA": {
         "vendorfullpath": "P:\\VENDORS\\Z\\ZESTA",
         "vendorname": "ZESTA",
         "vendorpath": [
@@ -5026,7 +5121,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ZESTA ENG": {
         "vendorfullpath": "P:\\VENDORS\\Z\\ZESTA ENG",
         "vendorname": "ZESTA ENG",
         "vendorpath": [
@@ -5037,7 +5132,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ZOLTAN": {
         "vendorfullpath": "P:\\VENDORS\\Z\\ZOLTAN",
         "vendorname": "ZOLTAN",
         "vendorpath": [
@@ -5048,7 +5143,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ZWART SYSTEMS": {
         "vendorfullpath": "P:\\VENDORS\\Z\\ZWART SYSTEMS",
         "vendorname": "ZWART SYSTEMS",
         "vendorpath": [
@@ -5059,7 +5154,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "CSA": {
         "vendorfullpath": "P:\\VENDORS\\_Standards\\CSA",
         "vendorname": "CSA",
         "vendorpath": [
@@ -5070,7 +5165,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "ISA": {
         "vendorfullpath": "P:\\VENDORS\\_Standards\\ISA",
         "vendorname": "ISA",
         "vendorpath": [
@@ -5081,7 +5176,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "Archive": {
         "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Archive",
         "vendorname": "Archive",
         "vendorpath": [
@@ -5092,7 +5187,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "Vendor Pricing": {
         "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Vendor Pricing",
         "vendorname": "Vendor Pricing",
         "vendorpath": [
@@ -5103,7 +5198,7 @@
         ],
         "alternatenames": []
     },
-    {
+    "Working": {
         "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Working",
         "vendorname": "Working",
         "vendorpath": [
@@ -5114,4 +5209,4 @@
         ],
         "alternatenames": []
     }
-]
+}
