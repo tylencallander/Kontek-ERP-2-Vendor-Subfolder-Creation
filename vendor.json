@@ -492,10 +492,10 @@
             "ASCO NUMATICS"
         ],
         "alternatenames": [
-            "EMERSON",
-            "Rosemount",
+            "ASCO NUMATICS",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "ASCO NUMATICS"
+            "EMERSON",
+            "Rosemount"
         ]
     },
     "ASLAN TECHNOLOGIES INC": {
@@ -599,9 +599,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "B & D STEEL": {
@@ -944,9 +944,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "CALGON CARBON CORPORATION": {
@@ -1058,8 +1058,8 @@
             "CARREM CONTROLS"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "CAST": {
@@ -1305,8 +1305,8 @@
             "CONVAL EQUIPMENT LTD"
         ],
         "alternatenames": [
-            "PLAST-O-MATIC VALVES, INC",
-            "CONVAL EQUIPMENT LTD"
+            "CONVAL EQUIPMENT LTD",
+            "PLAST-O-MATIC VALVES, INC"
         ]
     },
     "CONVEYORS, INC": {
@@ -1331,9 +1331,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "COOPER LIGHTING": {
@@ -1405,9 +1405,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "DAEMAR INC": {
@@ -1581,9 +1581,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "ECODYNE INDUSTRIAL": {
@@ -1651,10 +1651,10 @@
             "EMERSON"
         ],
         "alternatenames": [
-            "EMERSON",
-            "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS",
             "Rosemount",
-            "ASCO NUMATICS"
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "EMERSON"
         ]
     },
     "ENCON": {
@@ -1909,8 +1909,8 @@
             "FLO KING"
         ],
         "alternatenames": [
-            "CUSTOM MASTERS INC",
-            "FLO KING"
+            "FLO KING",
+            "CUSTOM MASTERS INC"
         ]
     },
     "FLOWLINE": {
@@ -2152,9 +2152,9 @@
         ],
         "alternatenames": [
             "GRAYBAR CANADA",
-            "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC"
+            "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN"
         ]
     },
     "GRUNDFOS": {
@@ -2730,10 +2730,10 @@
             "LAKESIDE PROCESS CONTROLS LTD"
         ],
         "alternatenames": [
-            "EMERSON",
-            "Rosemount",
+            "ASCO NUMATICS",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "ASCO NUMATICS"
+            "Rosemount",
+            "EMERSON"
         ]
     },
     "LAKOS SEPERATORS": {
@@ -3488,8 +3488,8 @@
             "PARTLOW"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "PASS AND SEYMOUR": {
@@ -3634,8 +3634,8 @@
             "PLAST-O-MATIC VALVES, INC"
         ],
         "alternatenames": [
-            "PLAST-O-MATIC VALVES, INC",
-            "CONVAL EQUIPMENT LTD"
+            "CONVAL EQUIPMENT LTD",
+            "PLAST-O-MATIC VALVES, INC"
         ]
     },
     "PLASTIC TANKS": {
@@ -4070,10 +4070,10 @@
             "ROSEMOUNT"
         ],
         "alternatenames": [
-            "EMERSON",
-            "Rosemount",
+            "ASCO NUMATICS",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "ASCO NUMATICS"
+            "EMERSON",
+            "Rosemount"
         ]
     },
     "ROTECH": {

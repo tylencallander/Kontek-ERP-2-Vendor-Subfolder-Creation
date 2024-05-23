@@ -2,8 +2,9 @@ import os
 import json
 import subprocess
 
+# Returns a list of relative paths to all the directories within the given root path.
+
 def list_folder_structure(root_path):
-    """Recursively list the structure of the given directory."""
     structure = []
     for dirpath, dirnames, _ in os.walk(root_path):
         for dirname in dirnames:
@@ -11,12 +12,13 @@ def list_folder_structure(root_path):
             structure.append(os.path.relpath(path, start=root_path))
     return structure
 
-def get_alternate_names(vendor_path, vendor_name, visited=None):
-    """Scan for .lnk files within the vendor directory and check for redirect targets recursively."""
-    if visited is None:
-        visited = set()  # To avoid infinite recursion due to circular .lnk references
+# Resolves .lnk files in a vendor directory to collect and report unique alternate names recursively.
 
-    alternates = set()  # Using set to avoid duplicate entries
+def get_alternate_names(vendor_path, vendor_name, visited=None):
+    if visited is None:
+        visited = set()  
+
+    alternates = set()  
     for item in os.listdir(vendor_path):
         item_path = os.path.join(vendor_path, item)
         if item_path.lower().endswith('.lnk') and item_path not in visited:
@@ -26,15 +28,15 @@ def get_alternate_names(vendor_path, vendor_name, visited=None):
                 alternate_name = os.path.basename(os.path.normpath(target_path))
                 alternates.add(alternate_name)
                 print(f"Resolved .lnk for vendor '{vendor_name}': links to '{alternate_name}' at '{target_path}'")
-                # Check if the target path itself contains .lnk files
                 if os.path.isdir(target_path):
                     alternates.update(get_alternate_names(target_path, alternate_name, visited))
             else:
                 print(f"Failed to resolve .lnk file '{item}' in vendor '{vendor_name}' directory")
-    return list(alternates)  # Convert set back to list for JSON serialization
+    return list(alternates) 
+
+# I was going to use pylnk, but I had some issues resolving .lnk files with it to find the alt names, so I used subprocess instead so I could use powershell
 
 def resolve_lnk(lnk_path):
-    """Use Windows shell to resolve the path of a .lnk file."""
     command = f'powershell "$link = (New-Object -COM WScript.Shell).CreateShortcut(\'{lnk_path}\'); $link.TargetPath"'
     try:
         output = subprocess.check_output(command, shell=True, text=True, stderr=subprocess.STDOUT)
