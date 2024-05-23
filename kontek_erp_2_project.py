@@ -77,7 +77,7 @@ def main():
                     
                     vendors[vendor_folder] = vendor_info
 
-    # Filling the Json files with the collected vendor data and errors, and a print statement so I can count them.
+# Filling the Json files with the collected vendor data and errors, and a print statement so I can count them.
 
     if errors:
         with open('errors.json', 'w') as f:
