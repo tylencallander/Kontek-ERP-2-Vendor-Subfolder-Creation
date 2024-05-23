@@ -492,10 +492,10 @@
             "ASCO NUMATICS"
         ],
         "alternatenames": [
-            "ASCO NUMATICS",
+            "Rosemount",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "EMERSON",
-            "Rosemount"
+            "ASCO NUMATICS",
+            "EMERSON"
         ]
     },
     "ASLAN TECHNOLOGIES INC": {
@@ -598,10 +598,10 @@
             "AZTEC ELECTRICAL SUPPLY INC"
         ],
         "alternatenames": [
-            "GRAYBAR CANADA",
-            "EATON",
             "AZTEC ELECTRICAL SUPPLY INC",
-            "BUSSMANN"
+            "BUSSMANN",
+            "EATON",
+            "GRAYBAR CANADA"
         ]
     },
     "B & D STEEL": {
@@ -943,9 +943,9 @@
             "BUSSMANN"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "EATON",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "GRAYBAR CANADA"
         ]
     },
@@ -1058,8 +1058,8 @@
             "CARREM CONTROLS"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "CAST": {
@@ -1330,10 +1330,10 @@
             "COOPER BUSSMANN"
         ],
         "alternatenames": [
-            "GRAYBAR CANADA",
-            "EATON",
             "AZTEC ELECTRICAL SUPPLY INC",
-            "BUSSMANN"
+            "BUSSMANN",
+            "EATON",
+            "GRAYBAR CANADA"
         ]
     },
     "COOPER LIGHTING": {
@@ -1390,8 +1390,8 @@
             "CUSTOM MASTERS INC"
         ],
         "alternatenames": [
-            "CUSTOM MASTERS INC",
-            "FLO KING"
+            "FLO KING",
+            "CUSTOM MASTERS INC"
         ]
     },
     "CUTLER-HAMMER": {
@@ -1404,8 +1404,8 @@
             "CUTLER-HAMMER"
         ],
         "alternatenames": [
-            "BUSSMANN",
             "EATON",
+            "BUSSMANN",
             "AZTEC ELECTRICAL SUPPLY INC",
             "GRAYBAR CANADA"
         ]
@@ -1580,10 +1580,10 @@
             "EATON"
         ],
         "alternatenames": [
-            "GRAYBAR CANADA",
-            "EATON",
             "AZTEC ELECTRICAL SUPPLY INC",
-            "BUSSMANN"
+            "BUSSMANN",
+            "EATON",
+            "GRAYBAR CANADA"
         ]
     },
     "ECODYNE INDUSTRIAL": {
@@ -1651,10 +1651,10 @@
             "EMERSON"
         ],
         "alternatenames": [
-            "ASCO NUMATICS",
-            "LAKESIDE PROCESS CONTROLS LTD",
+            "Rosemount",
             "EMERSON",
-            "Rosemount"
+            "ASCO NUMATICS",
+            "LAKESIDE PROCESS CONTROLS LTD"
         ]
     },
     "ENCON": {
@@ -2151,10 +2151,10 @@
             "GRAYBAR CANADA"
         ],
         "alternatenames": [
-            "GRAYBAR CANADA",
-            "EATON",
             "AZTEC ELECTRICAL SUPPLY INC",
-            "BUSSMANN"
+            "BUSSMANN",
+            "EATON",
+            "GRAYBAR CANADA"
         ]
     },
     "GRUNDFOS": {
@@ -2730,10 +2730,10 @@
             "LAKESIDE PROCESS CONTROLS LTD"
         ],
         "alternatenames": [
-            "ASCO NUMATICS",
+            "Rosemount",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "EMERSON",
-            "Rosemount"
+            "ASCO NUMATICS",
+            "EMERSON"
         ]
     },
     "LAKOS SEPERATORS": {
@@ -3056,8 +3056,8 @@
             "MITSUBISHI"
         ],
         "alternatenames": [
-            "ARROW SPEED CONTROLS",
-            "MITSUBISHI"
+            "MITSUBISHI",
+            "ARROW SPEED CONTROLS"
         ]
     },
     "MMC": {
@@ -3488,8 +3488,8 @@
             "PARTLOW"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "PASS AND SEYMOUR": {
@@ -4070,10 +4070,10 @@
             "ROSEMOUNT"
         ],
         "alternatenames": [
-            "ASCO NUMATICS",
-            "LAKESIDE PROCESS CONTROLS LTD",
+            "Rosemount",
             "EMERSON",
-            "Rosemount"
+            "ASCO NUMATICS",
+            "LAKESIDE PROCESS CONTROLS LTD"
         ]
     },
     "ROTECH": {
