@@ -53,7 +53,7 @@ def main():
     errors = {}
     vendors = {}
 
-# Updated it to only process directories that are single letters, to avoid the marketing folder and others
+# Updated it to only process directories that are single letters, to avoid the marketing folder and others since I dont think they are actual vendor files, since they are just filled with jpegs
 
     for letter_folder in filter(lambda f: f.isalpha() and len(f) == 1, os.listdir(vendors_path)):
         letter_folder_path = os.path.join(vendors_path, letter_folder)
