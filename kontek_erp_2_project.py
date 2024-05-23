@@ -53,11 +53,11 @@ def main():
     errors = {}
     vendors = {}
 
-# Logging all missing directories and alternate names
+# Updated it to only process directories that are single letters, to avoid the marketing folder and others
 
-    for letter_folder in os.listdir(vendors_path):
+    for letter_folder in filter(lambda f: f.isalpha() and len(f) == 1, os.listdir(vendors_path)):
         letter_folder_path = os.path.join(vendors_path, letter_folder)
-        if os.path.isdir(letter_folder_path) and letter_folder != '__TEMPLATE FOLDER (DO NOT DELETE)':
+        if os.path.isdir(letter_folder_path):
             for vendor_folder in os.listdir(letter_folder_path):
                 vendor_folder_path = os.path.join(letter_folder_path, vendor_folder)
                 if os.path.isdir(vendor_folder_path):
@@ -77,7 +77,7 @@ def main():
                     
                     vendors[vendor_folder] = vendor_info
 
-# Filling the Json files with the collected vendor data and errors, and a print statement so I can count them.
+# Output JSON files
 
     if errors:
         with open('errors.json', 'w') as f:

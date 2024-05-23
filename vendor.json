@@ -310,8 +310,8 @@
             "ALUMINUM SURFACE TECHNOLOGIES"
         ],
         "alternatenames": [
-            "TECOUSTICS",
-            "AST FAB"
+            "AST FAB",
+            "TECOUSTICS"
         ]
     },
     "AMACS - WEDGE WIRE DISTRIBUTORS -PACKING - SCREENS": {
@@ -467,8 +467,8 @@
             "ARROW SPEED CONTROLS"
         ],
         "alternatenames": [
-            "ARROW SPEED CONTROLS",
-            "MITSUBISHI"
+            "MITSUBISHI",
+            "ARROW SPEED CONTROLS"
         ]
     },
     "ART'S WAY VESSELS": {
@@ -494,8 +494,8 @@
         "alternatenames": [
             "Rosemount",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "ASCO NUMATICS",
-            "EMERSON"
+            "EMERSON",
+            "ASCO NUMATICS"
         ]
     },
     "ASLAN TECHNOLOGIES INC": {
@@ -598,8 +598,8 @@
             "AZTEC ELECTRICAL SUPPLY INC"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON",
             "GRAYBAR CANADA"
         ]
@@ -943,8 +943,8 @@
             "BUSSMANN"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON",
             "GRAYBAR CANADA"
         ]
@@ -1305,8 +1305,8 @@
             "CONVAL EQUIPMENT LTD"
         ],
         "alternatenames": [
-            "CONVAL EQUIPMENT LTD",
-            "PLAST-O-MATIC VALVES, INC"
+            "PLAST-O-MATIC VALVES, INC",
+            "CONVAL EQUIPMENT LTD"
         ]
     },
     "CONVEYORS, INC": {
@@ -1330,8 +1330,8 @@
             "COOPER BUSSMANN"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON",
             "GRAYBAR CANADA"
         ]
@@ -1404,9 +1404,9 @@
             "CUTLER-HAMMER"
         ],
         "alternatenames": [
-            "EATON",
             "BUSSMANN",
             "AZTEC ELECTRICAL SUPPLY INC",
+            "EATON",
             "GRAYBAR CANADA"
         ]
     },
@@ -1580,8 +1580,8 @@
             "EATON"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON",
             "GRAYBAR CANADA"
         ]
@@ -1651,10 +1651,10 @@
             "EMERSON"
         ],
         "alternatenames": [
-            "Rosemount",
             "EMERSON",
-            "ASCO NUMATICS",
-            "LAKESIDE PROCESS CONTROLS LTD"
+            "Rosemount",
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS"
         ]
     },
     "ENCON": {
@@ -1909,8 +1909,8 @@
             "FLO KING"
         ],
         "alternatenames": [
-            "FLO KING",
-            "CUSTOM MASTERS INC"
+            "CUSTOM MASTERS INC",
+            "FLO KING"
         ]
     },
     "FLOWLINE": {
@@ -2013,8 +2013,8 @@
             "GEORGE FISCHER PIPING SYSTEMS"
         ],
         "alternatenames": [
-            "Signet",
-            "GEORGE FISCHER PIPING SYSTEMS"
+            "GEORGE FISCHER PIPING SYSTEMS",
+            "Signet"
         ]
     },
     "GERRIE": {
@@ -2038,8 +2038,8 @@
             "GF"
         ],
         "alternatenames": [
-            "Signet",
-            "GEORGE FISCHER PIPING SYSTEMS"
+            "GEORGE FISCHER PIPING SYSTEMS",
+            "Signet"
         ]
     },
     "GOOD WATER": {
@@ -2151,8 +2151,8 @@
             "GRAYBAR CANADA"
         ],
         "alternatenames": [
-            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
+            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON",
             "GRAYBAR CANADA"
         ]
@@ -2732,8 +2732,8 @@
         "alternatenames": [
             "Rosemount",
             "LAKESIDE PROCESS CONTROLS LTD",
-            "ASCO NUMATICS",
-            "EMERSON"
+            "EMERSON",
+            "ASCO NUMATICS"
         ]
     },
     "LAKOS SEPERATORS": {
@@ -3181,28 +3181,6 @@
         ],
         "alternatenames": []
     },
-    "AESF Leads": {
-        "vendorfullpath": "P:\\VENDORS\\MARKETING\\AESF Leads",
-        "vendorname": "AESF Leads",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "MARKETING",
-            "AESF Leads"
-        ],
-        "alternatenames": []
-    },
-    "IST Sample pictures": {
-        "vendorfullpath": "P:\\VENDORS\\MARKETING\\IST Sample pictures",
-        "vendorname": "IST Sample pictures",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "MARKETING",
-            "IST Sample pictures"
-        ],
-        "alternatenames": []
-    },
     "N-TRON": {
         "vendorfullpath": "P:\\VENDORS\\N\\N-TRON",
         "vendorname": "N-TRON",
@@ -3634,8 +3612,8 @@
             "PLAST-O-MATIC VALVES, INC"
         ],
         "alternatenames": [
-            "CONVAL EQUIPMENT LTD",
-            "PLAST-O-MATIC VALVES, INC"
+            "PLAST-O-MATIC VALVES, INC",
+            "CONVAL EQUIPMENT LTD"
         ]
     },
     "PLASTIC TANKS": {
@@ -4070,10 +4048,10 @@
             "ROSEMOUNT"
         ],
         "alternatenames": [
-            "Rosemount",
             "EMERSON",
-            "ASCO NUMATICS",
-            "LAKESIDE PROCESS CONTROLS LTD"
+            "Rosemount",
+            "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS"
         ]
     },
     "ROTECH": {
@@ -4352,8 +4330,8 @@
             "SIGNET"
         ],
         "alternatenames": [
-            "Signet",
-            "GEORGE FISCHER PIPING SYSTEMS"
+            "GEORGE FISCHER PIPING SYSTEMS",
+            "Signet"
         ]
     },
     "SILVA": {
@@ -5182,61 +5160,6 @@
             "VENDORS",
             "Z",
             "ZWART SYSTEMS"
-        ],
-        "alternatenames": []
-    },
-    "CSA": {
-        "vendorfullpath": "P:\\VENDORS\\_Standards\\CSA",
-        "vendorname": "CSA",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "_Standards",
-            "CSA"
-        ],
-        "alternatenames": []
-    },
-    "ISA": {
-        "vendorfullpath": "P:\\VENDORS\\_Standards\\ISA",
-        "vendorname": "ISA",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "_Standards",
-            "ISA"
-        ],
-        "alternatenames": []
-    },
-    "Archive": {
-        "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Archive",
-        "vendorname": "Archive",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "~Master Parts Pricing List",
-            "Archive"
-        ],
-        "alternatenames": []
-    },
-    "Vendor Pricing": {
-        "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Vendor Pricing",
-        "vendorname": "Vendor Pricing",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "~Master Parts Pricing List",
-            "Vendor Pricing"
-        ],
-        "alternatenames": []
-    },
-    "Working": {
-        "vendorfullpath": "P:\\VENDORS\\~Master Parts Pricing List\\Working",
-        "vendorname": "Working",
-        "vendorpath": [
-            "P:",
-            "VENDORS",
-            "~Master Parts Pricing List",
-            "Working"
         ],
         "alternatenames": []
     }

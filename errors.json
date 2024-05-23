@@ -47,12 +47,12 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "ACKLANDS-GRAINGER INC": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
+        "PRICING INFORMATION",
         "PURCHASE ORDERS\\STOCK",
+        "PURCHASE ORDERS\\2024",
+        "CONTACT",
         "QUOTES",
-        "PRICING INFORMATION"
+        "MANUALS"
     ],
     "ACO CONTAINER SYSTEMS": [
         "PURCHASE ORDERS\\STOCK"
@@ -491,13 +491,13 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "DALIBOR": [
-        "MANUALS",
         "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
         "QUOTES",
+        "PRICING INFORMATION",
+        "PURCHASE ORDERS",
         "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
+        "MANUALS",
+        "PURCHASE ORDERS\\2024"
     ],
     "DANFOSS": [
         "PURCHASE ORDERS\\2024",
@@ -520,11 +520,11 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "DUALL or HEE-DUALL": [
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
+        "PRICING INFORMATION",
         "PURCHASE ORDERS\\STOCK",
+        "PURCHASE ORDERS\\2024",
         "QUOTES",
-        "PRICING INFORMATION"
+        "PURCHASE ORDERS"
     ],
     "DUPONT": [
         "PURCHASE ORDERS\\2024",
@@ -660,13 +660,13 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "FLO KING": [
-        "MANUALS",
         "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
         "QUOTES",
+        "PRICING INFORMATION",
+        "PURCHASE ORDERS",
         "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
+        "MANUALS",
+        "PURCHASE ORDERS\\2024"
     ],
     "FLOWLINE": [
         "PURCHASE ORDERS\\2024",
@@ -692,12 +692,12 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "GEMS": [
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
+        "PRICING INFORMATION",
         "PURCHASE ORDERS\\STOCK",
+        "PURCHASE ORDERS\\2024",
+        "CONTACT",
         "QUOTES",
-        "PRICING INFORMATION"
+        "PURCHASE ORDERS"
     ],
     "GENERAL FILTRATION": [
         "PURCHASE ORDERS\\2024",
@@ -821,13 +821,13 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "HUBBELL": [
-        "MANUALS",
         "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
         "QUOTES",
+        "PRICING INFORMATION",
+        "PURCHASE ORDERS",
         "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
+        "MANUALS",
+        "PURCHASE ORDERS\\2024"
     ],
     "HYDRODYNE INSTRUMENT": [
         "PURCHASE ORDERS\\2024",
@@ -1119,24 +1119,6 @@
         "PURCHASE ORDERS\\2024",
         "PURCHASE ORDERS\\STOCK"
     ],
-    "AESF Leads": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
-    ],
-    "IST Sample pictures": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
-    ],
     "N-TRON": [
         "PURCHASE ORDERS\\2024",
         "PURCHASE ORDERS\\STOCK"
@@ -1288,12 +1270,12 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "PLAST-O-MATIC VALVES, INC": [
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
+        "PRICING INFORMATION",
         "PURCHASE ORDERS\\STOCK",
+        "PURCHASE ORDERS\\2024",
+        "CONTACT",
         "QUOTES",
-        "PRICING INFORMATION"
+        "PURCHASE ORDERS"
     ],
     "PLASTIC TANKS": [
         "PURCHASE ORDERS\\2024",
@@ -1407,13 +1389,13 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "RESIN TECH INC": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
+        "PRICING INFORMATION",
         "PURCHASE ORDERS\\STOCK",
+        "PURCHASE ORDERS\\2024",
+        "CONTACT",
         "QUOTES",
-        "PRICING INFORMATION"
+        "PURCHASE ORDERS",
+        "MANUALS"
     ],
     "REX": [
         "PURCHASE ORDERS\\2024",
@@ -1514,13 +1496,13 @@
         "PURCHASE ORDERS\\STOCK"
     ],
     "SERFILCO": [
-        "MANUALS",
         "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
         "QUOTES",
+        "PRICING INFORMATION",
+        "PURCHASE ORDERS",
         "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
+        "MANUALS",
+        "PURCHASE ORDERS\\2024"
     ],
     "SERVICE FILTRATION": [
         "MANUALS",
@@ -1851,50 +1833,5 @@
     "ZWART SYSTEMS": [
         "PURCHASE ORDERS\\2024",
         "PURCHASE ORDERS\\STOCK"
-    ],
-    "CSA": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
-    ],
-    "ISA": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
-    ],
-    "Archive": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
-    ],
-    "Vendor Pricing": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "PURCHASE ORDERS\\STOCK",
-        "QUOTES",
-        "PRICING INFORMATION"
-    ],
-    "Working": [
-        "MANUALS",
-        "CONTACT",
-        "PURCHASE ORDERS\\2024",
-        "PURCHASE ORDERS",
-        "QUOTES",
-        "PURCHASE ORDERS\\STOCK",
-        "PRICING INFORMATION"
     ]
 }
