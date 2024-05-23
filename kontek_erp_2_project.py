@@ -1,3 +1,5 @@
+# I was going to use pylnk, but I had some issues resolving .lnk files with it to find the alt names, so I used subprocess instead so I could use powershell
+
 import os
 import json
 import subprocess
@@ -34,8 +36,6 @@ def get_alternate_names(vendor_path, vendor_name, visited=None):
                 print(f"Failed to resolve .lnk file '{item}' in vendor '{vendor_name}' directory")
     return list(alternates) 
 
-# I was going to use pylnk, but I had some issues resolving .lnk files with it to find the alt names, so I used subprocess instead so I could use powershell
-
 def resolve_lnk(lnk_path):
     command = f'powershell "$link = (New-Object -COM WScript.Shell).CreateShortcut(\'{lnk_path}\'); $link.TargetPath"'
     try:
@@ -52,6 +52,8 @@ def main():
     template_structure = set(list_folder_structure(template_path))
     errors = {}
     vendors = {}
+
+# Logging all missing directories and alternate names
 
     for letter_folder in os.listdir(vendors_path):
         letter_folder_path = os.path.join(vendors_path, letter_folder)
@@ -74,6 +76,8 @@ def main():
                         errors[vendor_folder] = list(missing_folders)
                     
                     vendors[vendor_folder] = vendor_info
+
+    # Filling the Json files with the collected vendor data and errors, and a print statement so I can count them.
 
     if errors:
         with open('errors.json', 'w') as f:
