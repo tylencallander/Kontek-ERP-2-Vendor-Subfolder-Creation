@@ -467,8 +467,8 @@
             "ARROW SPEED CONTROLS"
         ],
         "alternatenames": [
-            "MITSUBISHI",
-            "ARROW SPEED CONTROLS"
+            "ARROW SPEED CONTROLS",
+            "MITSUBISHI"
         ]
     },
     "ART'S WAY VESSELS": {
@@ -598,9 +598,9 @@
             "AZTEC ELECTRICAL SUPPLY INC"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "GRAYBAR CANADA",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON"
         ]
     },
@@ -943,9 +943,9 @@
             "BUSSMANN"
         ],
         "alternatenames": [
-            "EATON",
-            "BUSSMANN",
             "AZTEC ELECTRICAL SUPPLY INC",
+            "BUSSMANN",
+            "EATON",
             "GRAYBAR CANADA"
         ]
     },
@@ -1058,8 +1058,8 @@
             "CARREM CONTROLS"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "CAST": {
@@ -1330,9 +1330,9 @@
             "COOPER BUSSMANN"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "GRAYBAR CANADA",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON"
         ]
     },
@@ -1404,9 +1404,9 @@
             "CUTLER-HAMMER"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "GRAYBAR CANADA",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON"
         ]
     },
@@ -1580,9 +1580,9 @@
             "EATON"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "GRAYBAR CANADA",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON"
         ]
     },
@@ -1652,8 +1652,8 @@
         ],
         "alternatenames": [
             "LAKESIDE PROCESS CONTROLS LTD",
-            "Rosemount",
             "ASCO NUMATICS",
+            "Rosemount",
             "EMERSON"
         ]
     },
@@ -2013,8 +2013,8 @@
             "GEORGE FISCHER PIPING SYSTEMS"
         ],
         "alternatenames": [
-            "GEORGE FISCHER PIPING SYSTEMS",
-            "Signet"
+            "Signet",
+            "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },
     "GERRIE": {
@@ -2038,8 +2038,8 @@
             "GF"
         ],
         "alternatenames": [
-            "GEORGE FISCHER PIPING SYSTEMS",
-            "Signet"
+            "Signet",
+            "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },
     "GOOD WATER": {
@@ -2151,9 +2151,9 @@
             "GRAYBAR CANADA"
         ],
         "alternatenames": [
+            "AZTEC ELECTRICAL SUPPLY INC",
             "BUSSMANN",
             "GRAYBAR CANADA",
-            "AZTEC ELECTRICAL SUPPLY INC",
             "EATON"
         ]
     },
@@ -2730,10 +2730,10 @@
             "LAKESIDE PROCESS CONTROLS LTD"
         ],
         "alternatenames": [
-            "EMERSON",
             "LAKESIDE PROCESS CONTROLS LTD",
+            "ASCO NUMATICS",
             "Rosemount",
-            "ASCO NUMATICS"
+            "EMERSON"
         ]
     },
     "LAKOS SEPERATORS": {
@@ -3056,8 +3056,8 @@
             "MITSUBISHI"
         ],
         "alternatenames": [
-            "MITSUBISHI",
-            "ARROW SPEED CONTROLS"
+            "ARROW SPEED CONTROLS",
+            "MITSUBISHI"
         ]
     },
     "MMC": {
@@ -3466,8 +3466,8 @@
             "PARTLOW"
         ],
         "alternatenames": [
-            "CARREM CONTROLS",
-            "PARTLOW"
+            "PARTLOW",
+            "CARREM CONTROLS"
         ]
     },
     "PASS AND SEYMOUR": {
@@ -4330,8 +4330,8 @@
             "SIGNET"
         ],
         "alternatenames": [
-            "GEORGE FISCHER PIPING SYSTEMS",
-            "Signet"
+            "Signet",
+            "GEORGE FISCHER PIPING SYSTEMS"
         ]
     },
     "SILVA": {
