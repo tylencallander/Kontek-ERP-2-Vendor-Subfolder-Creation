@@ -79,7 +79,6 @@ def main():
 
 # Output JSON files
 
-
     if errors:
         with open('errors.json', 'w') as f:
             json.dump(errors, f, indent=4)
